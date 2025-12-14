@@ -14,8 +14,8 @@ Classify short Ukrainian reviews into:
 
 | Split | Samples |
 |-------|---------|
-| Train | 9,335 |
-| Test  | 4,064 |
+| Train | 9335 |
+| Test  | 3473 |
 
 **Class imbalance**: Significant imbalance exists (e.g., Happiness: ~1,600 samples vs Fear: ~9 samples).
 
