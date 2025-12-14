@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+datasets
+accelerate
+evaluate
+datasets
+peft
+trl
+bitsandbytes
+scipy
+sentence_transformers

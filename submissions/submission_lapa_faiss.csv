@@ -1,0 +1,3475 @@
+index,emotion,category
+0,Anger,Complaint / Dissatisfaction
+1,Happiness,Gratitude / Positive Feedback
+2,Happiness,Gratitude / Positive Feedback
+3,Anger,Complaint / Dissatisfaction
+4,Anger,Complaint / Dissatisfaction
+5,Happiness,Gratitude / Positive Feedback
+6,Disgust,Complaint / Dissatisfaction
+7,Happiness,Gratitude / Positive Feedback
+8,Anger,Complaint / Dissatisfaction
+9,Happiness,Gratitude / Positive Feedback
+10,Anger,Complaint / Dissatisfaction
+11,Anger,Complaint / Dissatisfaction
+12,Happiness,Gratitude / Positive Feedback
+13,Happiness,Gratitude / Positive Feedback
+14,Anger,Complaint / Dissatisfaction
+15,Neutral,Question / Request for Help
+16,Neutral,Question / Request for Help
+17,Neutral,Gratitude / Positive Feedback
+18,Happiness,Gratitude / Positive Feedback
+19,Happiness,Gratitude / Positive Feedback
+20,Happiness,Gratitude / Positive Feedback
+21,Anger,Complaint / Dissatisfaction
+22,Disgust,Complaint / Dissatisfaction
+23,Anger,Complaint / Dissatisfaction
+24,Happiness,Gratitude / Positive Feedback
+25,Anger,Complaint / Dissatisfaction
+26,Happiness,Gratitude / Positive Feedback
+27,Happiness,Gratitude / Positive Feedback
+28,Anger,Complaint / Dissatisfaction
+29,Happiness,Gratitude / Positive Feedback
+30,Happiness,Gratitude / Positive Feedback
+31,Happiness,Gratitude / Positive Feedback
+32,Happiness,Gratitude / Positive Feedback
+33,Happiness,Gratitude / Positive Feedback
+34,Anger,Complaint / Dissatisfaction
+35,Happiness,Gratitude / Positive Feedback
+36,Happiness,Gratitude / Positive Feedback
+37,Happiness,Gratitude / Positive Feedback
+38,Happiness,Gratitude / Positive Feedback
+39,Happiness,Gratitude / Positive Feedback
+40,Happiness,Gratitude / Positive Feedback
+41,Disgust,Complaint / Dissatisfaction
+42,Happiness,Gratitude / Positive Feedback
+43,Anger,Complaint / Dissatisfaction
+44,Happiness,Gratitude / Positive Feedback
+45,Happiness,Gratitude / Positive Feedback
+46,Happiness,Gratitude / Positive Feedback
+47,Happiness,Gratitude / Positive Feedback
+48,Happiness,Gratitude / Positive Feedback
+49,Happiness,Suggestion / Idea
+50,Anger,Complaint / Dissatisfaction
+51,Happiness,Gratitude / Positive Feedback
+52,Anger,Complaint / Dissatisfaction
+53,Anger,Complaint / Dissatisfaction
+54,Neutral,Neutral Comment
+55,Happiness,Gratitude / Positive Feedback
+56,Happiness,Gratitude / Positive Feedback
+57,Happiness,Gratitude / Positive Feedback
+58,Happiness,Gratitude / Positive Feedback
+59,Anger,Complaint / Dissatisfaction
+60,Happiness,Gratitude / Positive Feedback
+61,Anger,Complaint / Dissatisfaction
+62,Happiness,Gratitude / Positive Feedback
+63,Happiness,Gratitude / Positive Feedback
+64,Happiness,Gratitude / Positive Feedback
+65,Happiness,Gratitude / Positive Feedback
+66,Happiness,Gratitude / Positive Feedback
+67,Happiness,Gratitude / Positive Feedback
+68,Happiness,Gratitude / Positive Feedback
+69,Happiness,Gratitude / Positive Feedback
+70,Happiness,Gratitude / Positive Feedback
+71,Happiness,Gratitude / Positive Feedback
+72,Happiness,Gratitude / Positive Feedback
+73,Happiness,Gratitude / Positive Feedback
+74,Happiness,Gratitude / Positive Feedback
+75,Happiness,Gratitude / Positive Feedback
+76,Happiness,Gratitude / Positive Feedback
+77,Happiness,Question / Request for Help
+78,Anger,Complaint / Dissatisfaction
+79,Anger,Complaint / Dissatisfaction
+80,Neutral,Question / Request for Help
+81,Happiness,Gratitude / Positive Feedback
+82,Happiness,Gratitude / Positive Feedback
+83,Happiness,Gratitude / Positive Feedback
+84,Happiness,Gratitude / Positive Feedback
+85,Happiness,Gratitude / Positive Feedback
+86,Happiness,Gratitude / Positive Feedback
+87,Happiness,Gratitude / Positive Feedback
+88,Happiness,Gratitude / Positive Feedback
+89,Happiness,Gratitude / Positive Feedback
+90,Happiness,Gratitude / Positive Feedback
+91,Neutral,Neutral Comment
+92,Anger,Complaint / Dissatisfaction
+93,Happiness,Gratitude / Positive Feedback
+94,Happiness,Gratitude / Positive Feedback
+95,Happiness,Gratitude / Positive Feedback
+96,Anger,Complaint / Dissatisfaction
+97,Happiness,Gratitude / Positive Feedback
+98,Happiness,Gratitude / Positive Feedback
+99,Happiness,Gratitude / Positive Feedback
+100,Anger,Complaint / Dissatisfaction
+101,Anger,Complaint / Dissatisfaction
+102,Anger,Complaint / Dissatisfaction
+103,Happiness,Gratitude / Positive Feedback
+104,Happiness,Gratitude / Positive Feedback
+105,Happiness,Gratitude / Positive Feedback
+106,Happiness,Gratitude / Positive Feedback
+107,Anger,Complaint / Dissatisfaction
+108,Anger,Complaint / Dissatisfaction
+109,Happiness,Gratitude / Positive Feedback
+110,Anger,Complaint / Dissatisfaction
+111,Happiness,Gratitude / Positive Feedback
+112,Happiness,Gratitude / Positive Feedback
+113,Happiness,Gratitude / Positive Feedback
+114,Anger,Complaint / Dissatisfaction
+115,Happiness,Gratitude / Positive Feedback
+116,Happiness,Gratitude / Positive Feedback
+117,Happiness,Gratitude / Positive Feedback
+118,Happiness,Gratitude / Positive Feedback
+119,Happiness,Gratitude / Positive Feedback
+120,Happiness,Gratitude / Positive Feedback
+121,Neutral,Neutral Comment
+122,Happiness,Gratitude / Positive Feedback
+123,Anger,Complaint / Dissatisfaction
+124,Anger,Complaint / Dissatisfaction
+125,Happiness,Gratitude / Positive Feedback
+126,Happiness,Gratitude / Positive Feedback
+127,Happiness,Gratitude / Positive Feedback
+128,Happiness,Gratitude / Positive Feedback
+129,Happiness,Gratitude / Positive Feedback
+130,Happiness,Gratitude / Positive Feedback
+131,Anger,Complaint / Dissatisfaction
+132,Anger,Complaint / Dissatisfaction
+133,Happiness,Gratitude / Positive Feedback
+134,Happiness,Gratitude / Positive Feedback
+135,Neutral,Question / Request for Help
+136,Happiness,Gratitude / Positive Feedback
+137,Happiness,Gratitude / Positive Feedback
+138,Happiness,Gratitude / Positive Feedback
+139,Happiness,Gratitude / Positive Feedback
+140,Anger,Complaint / Dissatisfaction
+141,Happiness,Gratitude / Positive Feedback
+142,Happiness,Gratitude / Positive Feedback
+143,Anger,Complaint / Dissatisfaction
+144,Happiness,Gratitude / Positive Feedback
+145,Happiness,Gratitude / Positive Feedback
+146,Happiness,Gratitude / Positive Feedback
+147,Anger,Complaint / Dissatisfaction
+148,Happiness,Gratitude / Positive Feedback
+149,Happiness,Gratitude / Positive Feedback
+150,Happiness,Gratitude / Positive Feedback
+151,Happiness,Gratitude / Positive Feedback
+152,Happiness,Gratitude / Positive Feedback
+153,Happiness,Gratitude / Positive Feedback
+154,Happiness,Gratitude / Positive Feedback
+155,Happiness,Gratitude / Positive Feedback
+156,Anger,Complaint / Dissatisfaction
+157,Anger,Complaint / Dissatisfaction
+158,Anger,Complaint / Dissatisfaction
+159,Anger,Complaint / Dissatisfaction
+160,Anger,Complaint / Dissatisfaction
+161,Happiness,Gratitude / Positive Feedback
+162,Happiness,Gratitude / Positive Feedback
+163,Happiness,Gratitude / Positive Feedback
+164,Happiness,Complaint / Dissatisfaction
+165,Anger,Complaint / Dissatisfaction
+166,Happiness,Gratitude / Positive Feedback
+167,Neutral,Gratitude / Positive Feedback
+168,Anger,Complaint / Dissatisfaction
+169,Happiness,Gratitude / Positive Feedback
+170,Happiness,Gratitude / Positive Feedback
+171,Anger,Complaint / Dissatisfaction
+172,Happiness,Gratitude / Positive Feedback
+173,Happiness,Gratitude / Positive Feedback
+174,Happiness,Gratitude / Positive Feedback
+175,Happiness,Gratitude / Positive Feedback
+176,Happiness,Gratitude / Positive Feedback
+177,Happiness,Gratitude / Positive Feedback
+178,Happiness,Gratitude / Positive Feedback
+179,Happiness,Gratitude / Positive Feedback
+180,Neutral,Question / Request for Help
+181,Anger,Complaint / Dissatisfaction
+182,Happiness,Gratitude / Positive Feedback
+183,Happiness,Gratitude / Positive Feedback
+184,Happiness,Gratitude / Positive Feedback
+185,Happiness,Gratitude / Positive Feedback
+186,Happiness,Gratitude / Positive Feedback
+187,Fear,Question / Request for Help
+188,Happiness,Gratitude / Positive Feedback
+189,Anger,Complaint / Dissatisfaction
+190,Happiness,Gratitude / Positive Feedback
+191,Happiness,Gratitude / Positive Feedback
+192,Anger,Complaint / Dissatisfaction
+193,Happiness,Gratitude / Positive Feedback
+194,Happiness,Gratitude / Positive Feedback
+195,Anger,Complaint / Dissatisfaction
+196,Happiness,Gratitude / Positive Feedback
+197,Happiness,Gratitude / Positive Feedback
+198,Happiness,Gratitude / Positive Feedback
+199,Happiness,Gratitude / Positive Feedback
+200,Happiness,Gratitude / Positive Feedback
+201,Happiness,Gratitude / Positive Feedback
+202,Happiness,Gratitude / Positive Feedback
+203,Happiness,Gratitude / Positive Feedback
+204,Happiness,Gratitude / Positive Feedback
+205,Happiness,Gratitude / Positive Feedback
+206,Anger,Complaint / Dissatisfaction
+207,Happiness,Gratitude / Positive Feedback
+208,Anger,Complaint / Dissatisfaction
+209,Happiness,Gratitude / Positive Feedback
+210,Anger,Complaint / Dissatisfaction
+211,Happiness,Gratitude / Positive Feedback
+212,Happiness,Gratitude / Positive Feedback
+213,Happiness,Gratitude / Positive Feedback
+214,Happiness,Gratitude / Positive Feedback
+215,Sadness,Complaint / Dissatisfaction
+216,Happiness,Gratitude / Positive Feedback
+217,Happiness,Gratitude / Positive Feedback
+218,Happiness,Gratitude / Positive Feedback
+219,Happiness,Gratitude / Positive Feedback
+220,Neutral,Question / Request for Help
+221,Happiness,Gratitude / Positive Feedback
+222,Happiness,Gratitude / Positive Feedback
+223,Happiness,Gratitude / Positive Feedback
+224,Anger,Complaint / Dissatisfaction
+225,Happiness,Gratitude / Positive Feedback
+226,Happiness,Gratitude / Positive Feedback
+227,Happiness,Gratitude / Positive Feedback
+228,Happiness,Gratitude / Positive Feedback
+229,Happiness,Gratitude / Positive Feedback
+230,Happiness,Gratitude / Positive Feedback
+231,Happiness,Gratitude / Positive Feedback
+232,Happiness,Gratitude / Positive Feedback
+233,Happiness,Gratitude / Positive Feedback
+234,Happiness,Gratitude / Positive Feedback
+235,Neutral,Neutral Comment
+236,Happiness,Gratitude / Positive Feedback
+237,Anger,Complaint / Dissatisfaction
+238,Anger,Complaint / Dissatisfaction
+239,Happiness,Gratitude / Positive Feedback
+240,Happiness,Gratitude / Positive Feedback
+241,Neutral,Suggestion / Idea
+242,Happiness,Gratitude / Positive Feedback
+243,Anger,Complaint / Dissatisfaction
+244,Happiness,Gratitude / Positive Feedback
+245,Neutral,Neutral Comment
+246,Happiness,Gratitude / Positive Feedback
+247,Happiness,Gratitude / Positive Feedback
+248,Happiness,Gratitude / Positive Feedback
+249,Happiness,Gratitude / Positive Feedback
+250,Anger,Complaint / Dissatisfaction
+251,Happiness,Gratitude / Positive Feedback
+252,Happiness,Gratitude / Positive Feedback
+253,Anger,Complaint / Dissatisfaction
+254,Happiness,Gratitude / Positive Feedback
+255,Neutral,Neutral Comment
+256,Happiness,Gratitude / Positive Feedback
+257,Happiness,Gratitude / Positive Feedback
+258,Happiness,Gratitude / Positive Feedback
+259,Happiness,Gratitude / Positive Feedback
+260,Happiness,Gratitude / Positive Feedback
+261,Happiness,Gratitude / Positive Feedback
+262,Happiness,Gratitude / Positive Feedback
+263,Happiness,Gratitude / Positive Feedback
+264,Happiness,Gratitude / Positive Feedback
+265,Happiness,Gratitude / Positive Feedback
+266,Happiness,Gratitude / Positive Feedback
+267,Happiness,Gratitude / Positive Feedback
+268,Happiness,Gratitude / Positive Feedback
+269,Happiness,Gratitude / Positive Feedback
+270,Happiness,Gratitude / Positive Feedback
+271,Anger,Complaint / Dissatisfaction
+272,Neutral,Neutral Comment
+273,Anger,Complaint / Dissatisfaction
+274,Happiness,Gratitude / Positive Feedback
+275,Happiness,Gratitude / Positive Feedback
+276,Anger,Complaint / Dissatisfaction
+277,Neutral,Question / Request for Help
+278,Happiness,Gratitude / Positive Feedback
+279,Neutral,Question / Request for Help
+280,Anger,Complaint / Dissatisfaction
+281,Happiness,Gratitude / Positive Feedback
+282,Anger,Complaint / Dissatisfaction
+283,Happiness,Gratitude / Positive Feedback
+284,Neutral,Neutral Comment
+285,Happiness,Gratitude / Positive Feedback
+286,Anger,Complaint / Dissatisfaction
+287,Happiness,Gratitude / Positive Feedback
+288,Happiness,Gratitude / Positive Feedback
+289,Happiness,Gratitude / Positive Feedback
+290,Anger,Complaint / Dissatisfaction
+291,Happiness,Gratitude / Positive Feedback
+292,Happiness,Gratitude / Positive Feedback
+293,Anger,Complaint / Dissatisfaction
+294,Neutral,Question / Request for Help
+295,Neutral,Question / Request for Help
+296,Happiness,Gratitude / Positive Feedback
+297,Anger,Complaint / Dissatisfaction
+298,Anger,Complaint / Dissatisfaction
+299,Happiness,Gratitude / Positive Feedback
+300,Happiness,Gratitude / Positive Feedback
+301,Happiness,Gratitude / Positive Feedback
+302,Happiness,Gratitude / Positive Feedback
+303,Happiness,Gratitude / Positive Feedback
+304,Happiness,Gratitude / Positive Feedback
+305,Anger,Complaint / Dissatisfaction
+306,Happiness,Gratitude / Positive Feedback
+307,Happiness,Gratitude / Positive Feedback
+308,Neutral,Complaint / Dissatisfaction
+309,Happiness,Gratitude / Positive Feedback
+310,Happiness,Gratitude / Positive Feedback
+311,Anger,Complaint / Dissatisfaction
+312,Happiness,Gratitude / Positive Feedback
+313,Anger,Complaint / Dissatisfaction
+314,Happiness,Gratitude / Positive Feedback
+315,Neutral,Neutral Comment
+316,Happiness,Gratitude / Positive Feedback
+317,Happiness,Gratitude / Positive Feedback
+318,Happiness,Gratitude / Positive Feedback
+319,Happiness,Gratitude / Positive Feedback
+320,Happiness,Gratitude / Positive Feedback
+321,Neutral,Question / Request for Help
+322,Neutral,Neutral Comment
+323,Happiness,Gratitude / Positive Feedback
+324,Neutral,Neutral Comment
+325,Anger,Complaint / Dissatisfaction
+326,Happiness,Gratitude / Positive Feedback
+327,Neutral,Complaint / Dissatisfaction
+328,Happiness,Gratitude / Positive Feedback
+329,Anger,Complaint / Dissatisfaction
+330,Happiness,Gratitude / Positive Feedback
+331,Anger,Complaint / Dissatisfaction
+332,Happiness,Gratitude / Positive Feedback
+333,Happiness,Gratitude / Positive Feedback
+334,Happiness,Gratitude / Positive Feedback
+335,Anger,Complaint / Dissatisfaction
+336,Happiness,Gratitude / Positive Feedback
+337,Happiness,Gratitude / Positive Feedback
+338,Anger,Complaint / Dissatisfaction
+339,Happiness,Gratitude / Positive Feedback
+340,Happiness,Gratitude / Positive Feedback
+341,Happiness,Gratitude / Positive Feedback
+342,Happiness,Gratitude / Positive Feedback
+343,Anger,Complaint / Dissatisfaction
+344,Happiness,Suggestion / Idea
+345,Happiness,Gratitude / Positive Feedback
+346,Happiness,Suggestion / Idea
+347,Happiness,Gratitude / Positive Feedback
+348,Anger,Complaint / Dissatisfaction
+349,Happiness,Gratitude / Positive Feedback
+350,Happiness,Gratitude / Positive Feedback
+351,Happiness,Gratitude / Positive Feedback
+352,Happiness,Gratitude / Positive Feedback
+353,Happiness,Gratitude / Positive Feedback
+354,Happiness,Gratitude / Positive Feedback
+355,Happiness,Gratitude / Positive Feedback
+356,Happiness,Gratitude / Positive Feedback
+357,Neutral,Question / Request for Help
+358,Happiness,Suggestion / Idea
+359,Happiness,Gratitude / Positive Feedback
+360,Neutral,Neutral Comment
+361,Happiness,Gratitude / Positive Feedback
+362,Happiness,Gratitude / Positive Feedback
+363,Neutral,Neutral Comment
+364,Anger,Complaint / Dissatisfaction
+365,Sadness,Complaint / Dissatisfaction
+366,Happiness,Gratitude / Positive Feedback
+367,Happiness,Gratitude / Positive Feedback
+368,Happiness,Gratitude / Positive Feedback
+369,Anger,Complaint / Dissatisfaction
+370,Anger,Complaint / Dissatisfaction
+371,Happiness,Gratitude / Positive Feedback
+372,Happiness,Gratitude / Positive Feedback
+373,Happiness,Gratitude / Positive Feedback
+374,Happiness,Gratitude / Positive Feedback
+375,Neutral,Question / Request for Help
+376,Happiness,Gratitude / Positive Feedback
+377,Anger,Complaint / Dissatisfaction
+378,Happiness,Gratitude / Positive Feedback
+379,Anger,Complaint / Dissatisfaction
+380,Anger,Complaint / Dissatisfaction
+381,Anger,Complaint / Dissatisfaction
+382,Neutral,Question / Request for Help
+383,Happiness,Gratitude / Positive Feedback
+384,Anger,Complaint / Dissatisfaction
+385,Happiness,Gratitude / Positive Feedback
+386,Happiness,Gratitude / Positive Feedback
+387,Neutral,Neutral Comment
+388,Neutral,Neutral Comment
+389,Happiness,Gratitude / Positive Feedback
+390,Happiness,Gratitude / Positive Feedback
+391,Happiness,Gratitude / Positive Feedback
+392,Happiness,Gratitude / Positive Feedback
+393,Happiness,Gratitude / Positive Feedback
+394,Happiness,Gratitude / Positive Feedback
+395,Happiness,Gratitude / Positive Feedback
+396,Anger,Complaint / Dissatisfaction
+397,Happiness,Gratitude / Positive Feedback
+398,Neutral,Neutral Comment
+399,Happiness,Gratitude / Positive Feedback
+400,Happiness,Gratitude / Positive Feedback
+401,Happiness,Gratitude / Positive Feedback
+402,Happiness,Gratitude / Positive Feedback
+403,Happiness,Gratitude / Positive Feedback
+404,Happiness,Neutral Comment
+405,Happiness,Gratitude / Positive Feedback
+406,Anger,Complaint / Dissatisfaction
+407,Sadness,Question / Request for Help
+408,Happiness,Suggestion / Idea
+409,Happiness,Gratitude / Positive Feedback
+410,Happiness,Gratitude / Positive Feedback
+411,Happiness,Gratitude / Positive Feedback
+412,Happiness,Gratitude / Positive Feedback
+413,Happiness,Gratitude / Positive Feedback
+414,Anger,Complaint / Dissatisfaction
+415,Happiness,Gratitude / Positive Feedback
+416,Anger,Complaint / Dissatisfaction
+417,Happiness,Gratitude / Positive Feedback
+418,Happiness,Gratitude / Positive Feedback
+419,Happiness,Gratitude / Positive Feedback
+420,Anger,Complaint / Dissatisfaction
+421,Anger,Complaint / Dissatisfaction
+422,Happiness,Gratitude / Positive Feedback
+423,Happiness,Gratitude / Positive Feedback
+424,Happiness,Gratitude / Positive Feedback
+425,Anger,Complaint / Dissatisfaction
+426,Happiness,Gratitude / Positive Feedback
+427,Neutral,Neutral Comment
+428,Happiness,Gratitude / Positive Feedback
+429,Happiness,Gratitude / Positive Feedback
+430,Happiness,Gratitude / Positive Feedback
+431,Happiness,Gratitude / Positive Feedback
+432,Anger,Complaint / Dissatisfaction
+433,Happiness,Gratitude / Positive Feedback
+434,Happiness,Gratitude / Positive Feedback
+435,Anger,Complaint / Dissatisfaction
+436,Anger,Complaint / Dissatisfaction
+437,Anger,Complaint / Dissatisfaction
+438,Neutral,Question / Request for Help
+439,Happiness,Gratitude / Positive Feedback
+440,Anger,Complaint / Dissatisfaction
+441,Happiness,Gratitude / Positive Feedback
+442,Anger,Complaint / Dissatisfaction
+443,Happiness,Gratitude / Positive Feedback
+444,Anger,Complaint / Dissatisfaction
+445,Happiness,Gratitude / Positive Feedback
+446,Happiness,Gratitude / Positive Feedback
+447,Disgust,Complaint / Dissatisfaction
+448,Happiness,Gratitude / Positive Feedback
+449,Happiness,Gratitude / Positive Feedback
+450,Happiness,Gratitude / Positive Feedback
+451,Happiness,Gratitude / Positive Feedback
+452,Happiness,Gratitude / Positive Feedback
+453,Neutral,Suggestion / Idea
+454,Happiness,Gratitude / Positive Feedback
+455,Happiness,Gratitude / Positive Feedback
+456,Happiness,Gratitude / Positive Feedback
+457,Happiness,Gratitude / Positive Feedback
+458,Happiness,Gratitude / Positive Feedback
+459,Anger,Complaint / Dissatisfaction
+460,Happiness,Gratitude / Positive Feedback
+461,Happiness,Gratitude / Positive Feedback
+462,Happiness,Gratitude / Positive Feedback
+463,Neutral,Neutral Comment
+464,Anger,Complaint / Dissatisfaction
+465,Happiness,Gratitude / Positive Feedback
+466,Happiness,Gratitude / Positive Feedback
+467,Happiness,Gratitude / Positive Feedback
+468,Happiness,Gratitude / Positive Feedback
+469,Happiness,Gratitude / Positive Feedback
+470,Happiness,Gratitude / Positive Feedback
+471,Happiness,Gratitude / Positive Feedback
+472,Happiness,Gratitude / Positive Feedback
+473,Happiness,Gratitude / Positive Feedback
+474,Happiness,Gratitude / Positive Feedback
+475,Neutral,Suggestion / Idea
+476,Happiness,Gratitude / Positive Feedback
+477,Happiness,Gratitude / Positive Feedback
+478,Neutral,Neutral Comment
+479,Sadness,Question / Request for Help
+480,Neutral,Question / Request for Help
+481,Sadness,Question / Request for Help
+482,Happiness,Gratitude / Positive Feedback
+483,Happiness,Gratitude / Positive Feedback
+484,Happiness,Gratitude / Positive Feedback
+485,Happiness,Gratitude / Positive Feedback
+486,Happiness,Gratitude / Positive Feedback
+487,Happiness,Gratitude / Positive Feedback
+488,Happiness,Gratitude / Positive Feedback
+489,Happiness,Gratitude / Positive Feedback
+490,Happiness,Gratitude / Positive Feedback
+491,Neutral,Neutral Comment
+492,Happiness,Gratitude / Positive Feedback
+493,Anger,Complaint / Dissatisfaction
+494,Happiness,Gratitude / Positive Feedback
+495,Happiness,Gratitude / Positive Feedback
+496,Anger,Complaint / Dissatisfaction
+497,Happiness,Gratitude / Positive Feedback
+498,Anger,Complaint / Dissatisfaction
+499,Disgust,Complaint / Dissatisfaction
+500,Anger,Complaint / Dissatisfaction
+501,Anger,Complaint / Dissatisfaction
+502,Sadness,Neutral Comment
+503,Neutral,Question / Request for Help
+504,Happiness,Gratitude / Positive Feedback
+505,Happiness,Gratitude / Positive Feedback
+506,Happiness,Gratitude / Positive Feedback
+507,Neutral,Neutral Comment
+508,Disgust,Complaint / Dissatisfaction
+509,Happiness,Gratitude / Positive Feedback
+510,Happiness,Gratitude / Positive Feedback
+511,Disgust,Complaint / Dissatisfaction
+512,Anger,Complaint / Dissatisfaction
+513,Anger,Complaint / Dissatisfaction
+514,Anger,Complaint / Dissatisfaction
+515,Happiness,Gratitude / Positive Feedback
+516,Neutral,Question / Request for Help
+517,Happiness,Gratitude / Positive Feedback
+518,Happiness,Gratitude / Positive Feedback
+519,Anger,Complaint / Dissatisfaction
+520,Happiness,Gratitude / Positive Feedback
+521,Happiness,Gratitude / Positive Feedback
+522,Happiness,Gratitude / Positive Feedback
+523,Happiness,Gratitude / Positive Feedback
+524,Anger,Complaint / Dissatisfaction
+525,Disgust,Complaint / Dissatisfaction
+526,Anger,Complaint / Dissatisfaction
+527,Happiness,Gratitude / Positive Feedback
+528,Happiness,Gratitude / Positive Feedback
+529,Anger,Complaint / Dissatisfaction
+530,Happiness,Gratitude / Positive Feedback
+531,Happiness,Gratitude / Positive Feedback
+532,Happiness,Gratitude / Positive Feedback
+533,Happiness,Gratitude / Positive Feedback
+534,Disgust,Complaint / Dissatisfaction
+535,Happiness,Gratitude / Positive Feedback
+536,Happiness,Gratitude / Positive Feedback
+537,Happiness,Gratitude / Positive Feedback
+538,Happiness,Gratitude / Positive Feedback
+539,Happiness,Gratitude / Positive Feedback
+540,Anger,Complaint / Dissatisfaction
+541,Happiness,Gratitude / Positive Feedback
+542,Happiness,Gratitude / Positive Feedback
+543,Anger,Complaint / Dissatisfaction
+544,Happiness,Gratitude / Positive Feedback
+545,Neutral,Neutral Comment
+546,Neutral,Neutral Comment
+547,Happiness,Gratitude / Positive Feedback
+548,Neutral,Neutral Comment
+549,Happiness,Suggestion / Idea
+550,Anger,Complaint / Dissatisfaction
+551,Happiness,Gratitude / Positive Feedback
+552,Happiness,Gratitude / Positive Feedback
+553,Anger,Complaint / Dissatisfaction
+554,Happiness,Gratitude / Positive Feedback
+555,Happiness,Gratitude / Positive Feedback
+556,Happiness,Gratitude / Positive Feedback
+557,Neutral,Neutral Comment
+558,Anger,Complaint / Dissatisfaction
+559,Happiness,Gratitude / Positive Feedback
+560,Neutral,Neutral Comment
+561,Happiness,Gratitude / Positive Feedback
+562,Neutral,Neutral Comment
+563,Happiness,Gratitude / Positive Feedback
+564,Happiness,Gratitude / Positive Feedback
+565,Happiness,Gratitude / Positive Feedback
+566,Happiness,Gratitude / Positive Feedback
+567,Happiness,Gratitude / Positive Feedback
+568,Happiness,Gratitude / Positive Feedback
+569,Happiness,Gratitude / Positive Feedback
+570,Happiness,Gratitude / Positive Feedback
+571,Neutral,Suggestion / Idea
+572,Happiness,Gratitude / Positive Feedback
+573,Happiness,Gratitude / Positive Feedback
+574,Happiness,Suggestion / Idea
+575,Anger,Complaint / Dissatisfaction
+576,Anger,Complaint / Dissatisfaction
+577,Happiness,Gratitude / Positive Feedback
+578,Happiness,Gratitude / Positive Feedback
+579,Happiness,Gratitude / Positive Feedback
+580,Anger,Complaint / Dissatisfaction
+581,Anger,Complaint / Dissatisfaction
+582,Happiness,Gratitude / Positive Feedback
+583,Anger,Complaint / Dissatisfaction
+584,Happiness,Gratitude / Positive Feedback
+585,Happiness,Gratitude / Positive Feedback
+586,Happiness,Gratitude / Positive Feedback
+587,Neutral,Neutral Comment
+588,Happiness,Gratitude / Positive Feedback
+589,Happiness,Gratitude / Positive Feedback
+590,Anger,Complaint / Dissatisfaction
+591,Happiness,Neutral Comment
+592,Anger,Complaint / Dissatisfaction
+593,Happiness,Gratitude / Positive Feedback
+594,Anger,Complaint / Dissatisfaction
+595,Happiness,Gratitude / Positive Feedback
+596,Happiness,Gratitude / Positive Feedback
+597,Happiness,Gratitude / Positive Feedback
+598,Anger,Complaint / Dissatisfaction
+599,Anger,Complaint / Dissatisfaction
+600,Happiness,Gratitude / Positive Feedback
+601,Happiness,Gratitude / Positive Feedback
+602,Anger,Complaint / Dissatisfaction
+603,Happiness,Gratitude / Positive Feedback
+604,Happiness,Gratitude / Positive Feedback
+605,Anger,Complaint / Dissatisfaction
+606,Happiness,Neutral Comment
+607,Anger,Complaint / Dissatisfaction
+608,Happiness,Gratitude / Positive Feedback
+609,Happiness,Gratitude / Positive Feedback
+610,Happiness,Gratitude / Positive Feedback
+611,Happiness,Gratitude / Positive Feedback
+612,Happiness,Gratitude / Positive Feedback
+613,Happiness,Gratitude / Positive Feedback
+614,Happiness,Gratitude / Positive Feedback
+615,Anger,Complaint / Dissatisfaction
+616,Happiness,Gratitude / Positive Feedback
+617,Anger,Complaint / Dissatisfaction
+618,Happiness,Gratitude / Positive Feedback
+619,Happiness,Gratitude / Positive Feedback
+620,Neutral,Neutral Comment
+621,Neutral,Complaint / Dissatisfaction
+622,Happiness,Gratitude / Positive Feedback
+623,Happiness,Gratitude / Positive Feedback
+624,Happiness,Gratitude / Positive Feedback
+625,Anger,Complaint / Dissatisfaction
+626,Happiness,Gratitude / Positive Feedback
+627,Happiness,Gratitude / Positive Feedback
+628,Happiness,Gratitude / Positive Feedback
+629,Neutral,Question / Request for Help
+630,Happiness,Gratitude / Positive Feedback
+631,Happiness,Gratitude / Positive Feedback
+632,Happiness,Gratitude / Positive Feedback
+633,Neutral,Neutral Comment
+634,Happiness,Gratitude / Positive Feedback
+635,Neutral,Question / Request for Help
+636,Happiness,Gratitude / Positive Feedback
+637,Happiness,Gratitude / Positive Feedback
+638,Happiness,Gratitude / Positive Feedback
+639,Happiness,Gratitude / Positive Feedback
+640,Happiness,Gratitude / Positive Feedback
+641,Happiness,Gratitude / Positive Feedback
+642,Fear,Complaint / Dissatisfaction
+643,Happiness,Gratitude / Positive Feedback
+644,Surprise,Gratitude / Positive Feedback
+645,Anger,Complaint / Dissatisfaction
+646,Happiness,Gratitude / Positive Feedback
+647,Happiness,Gratitude / Positive Feedback
+648,Happiness,Gratitude / Positive Feedback
+649,Happiness,Gratitude / Positive Feedback
+650,Happiness,Gratitude / Positive Feedback
+651,Neutral,Question / Request for Help
+652,Anger,Complaint / Dissatisfaction
+653,Happiness,Gratitude / Positive Feedback
+654,Happiness,Gratitude / Positive Feedback
+655,Disgust,Complaint / Dissatisfaction
+656,Happiness,Gratitude / Positive Feedback
+657,Neutral,Neutral Comment
+658,Happiness,Gratitude / Positive Feedback
+659,Anger,Complaint / Dissatisfaction
+660,Neutral,Neutral Comment
+661,Happiness,Gratitude / Positive Feedback
+662,Happiness,Gratitude / Positive Feedback
+663,Happiness,Gratitude / Positive Feedback
+664,Happiness,Gratitude / Positive Feedback
+665,Anger,Complaint / Dissatisfaction
+666,Happiness,Gratitude / Positive Feedback
+667,Happiness,Gratitude / Positive Feedback
+668,Happiness,Gratitude / Positive Feedback
+669,Happiness,Gratitude / Positive Feedback
+670,Neutral,Question / Request for Help
+671,Anger,Complaint / Dissatisfaction
+672,Anger,Complaint / Dissatisfaction
+673,Happiness,Gratitude / Positive Feedback
+674,Happiness,Gratitude / Positive Feedback
+675,Happiness,Suggestion / Idea
+676,Happiness,Gratitude / Positive Feedback
+677,Anger,Complaint / Dissatisfaction
+678,Happiness,Gratitude / Positive Feedback
+679,Happiness,Gratitude / Positive Feedback
+680,Happiness,Gratitude / Positive Feedback
+681,Happiness,Gratitude / Positive Feedback
+682,Happiness,Gratitude / Positive Feedback
+683,Happiness,Gratitude / Positive Feedback
+684,Neutral,Neutral Comment
+685,Happiness,Gratitude / Positive Feedback
+686,Happiness,Gratitude / Positive Feedback
+687,Neutral,Question / Request for Help
+688,Disgust,Complaint / Dissatisfaction
+689,Anger,Complaint / Dissatisfaction
+690,Happiness,Gratitude / Positive Feedback
+691,Neutral,Question / Request for Help
+692,Happiness,Gratitude / Positive Feedback
+693,Happiness,Gratitude / Positive Feedback
+694,Happiness,Gratitude / Positive Feedback
+695,Happiness,Gratitude / Positive Feedback
+696,Neutral,Neutral Comment
+697,Happiness,Gratitude / Positive Feedback
+698,Happiness,Gratitude / Positive Feedback
+699,Happiness,Gratitude / Positive Feedback
+700,Happiness,Gratitude / Positive Feedback
+701,Happiness,Gratitude / Positive Feedback
+702,Happiness,Gratitude / Positive Feedback
+703,Sadness,Complaint / Dissatisfaction
+704,Happiness,Gratitude / Positive Feedback
+705,Anger,Complaint / Dissatisfaction
+706,Happiness,Gratitude / Positive Feedback
+707,Happiness,Gratitude / Positive Feedback
+708,Happiness,Gratitude / Positive Feedback
+709,Anger,Complaint / Dissatisfaction
+710,Happiness,Gratitude / Positive Feedback
+711,Anger,Complaint / Dissatisfaction
+712,Happiness,Gratitude / Positive Feedback
+713,Neutral,Neutral Comment
+714,Happiness,Gratitude / Positive Feedback
+715,Happiness,Gratitude / Positive Feedback
+716,Sadness,Question / Request for Help
+717,Happiness,Gratitude / Positive Feedback
+718,Happiness,Gratitude / Positive Feedback
+719,Happiness,Gratitude / Positive Feedback
+720,Happiness,Gratitude / Positive Feedback
+721,Happiness,Gratitude / Positive Feedback
+722,Happiness,Gratitude / Positive Feedback
+723,Happiness,Gratitude / Positive Feedback
+724,Happiness,Gratitude / Positive Feedback
+725,Anger,Complaint / Dissatisfaction
+726,Happiness,Gratitude / Positive Feedback
+727,Happiness,Gratitude / Positive Feedback
+728,Happiness,Gratitude / Positive Feedback
+729,Happiness,Gratitude / Positive Feedback
+730,Neutral,Neutral Comment
+731,Happiness,Gratitude / Positive Feedback
+732,Anger,Complaint / Dissatisfaction
+733,Neutral,Question / Request for Help
+734,Neutral,Question / Request for Help
+735,Neutral,Neutral Comment
+736,Happiness,Gratitude / Positive Feedback
+737,Happiness,Gratitude / Positive Feedback
+738,Happiness,Gratitude / Positive Feedback
+739,Happiness,Gratitude / Positive Feedback
+740,Happiness,Gratitude / Positive Feedback
+741,Happiness,Gratitude / Positive Feedback
+742,Happiness,Gratitude / Positive Feedback
+743,Anger,Complaint / Dissatisfaction
+744,Anger,Complaint / Dissatisfaction
+745,Happiness,Gratitude / Positive Feedback
+746,Happiness,Gratitude / Positive Feedback
+747,Happiness,Gratitude / Positive Feedback
+748,Happiness,Gratitude / Positive Feedback
+749,Anger,Complaint / Dissatisfaction
+750,Happiness,Gratitude / Positive Feedback
+751,Anger,Complaint / Dissatisfaction
+752,Happiness,Gratitude / Positive Feedback
+753,Anger,Complaint / Dissatisfaction
+754,Happiness,Gratitude / Positive Feedback
+755,Happiness,Gratitude / Positive Feedback
+756,Neutral,Gratitude / Positive Feedback
+757,Happiness,Gratitude / Positive Feedback
+758,Neutral,Neutral Comment
+759,Happiness,Gratitude / Positive Feedback
+760,Anger,Complaint / Dissatisfaction
+761,Happiness,Gratitude / Positive Feedback
+762,Happiness,Gratitude / Positive Feedback
+763,Anger,Complaint / Dissatisfaction
+764,Happiness,Suggestion / Idea
+765,Neutral,Neutral Comment
+766,Disgust,Complaint / Dissatisfaction
+767,Happiness,Gratitude / Positive Feedback
+768,Happiness,Gratitude / Positive Feedback
+769,Happiness,Gratitude / Positive Feedback
+770,Happiness,Gratitude / Positive Feedback
+771,Disgust,Complaint / Dissatisfaction
+772,Happiness,Suggestion / Idea
+773,Happiness,Gratitude / Positive Feedback
+774,Happiness,Gratitude / Positive Feedback
+775,Happiness,Gratitude / Positive Feedback
+776,Happiness,Gratitude / Positive Feedback
+777,Happiness,Gratitude / Positive Feedback
+778,Happiness,Gratitude / Positive Feedback
+779,Happiness,Gratitude / Positive Feedback
+780,Happiness,Gratitude / Positive Feedback
+781,Happiness,Gratitude / Positive Feedback
+782,Anger,Complaint / Dissatisfaction
+783,Happiness,Gratitude / Positive Feedback
+784,Happiness,Gratitude / Positive Feedback
+785,Happiness,Gratitude / Positive Feedback
+786,Anger,Complaint / Dissatisfaction
+787,Happiness,Gratitude / Positive Feedback
+788,Happiness,Gratitude / Positive Feedback
+789,Happiness,Gratitude / Positive Feedback
+790,Happiness,Gratitude / Positive Feedback
+791,Disgust,Complaint / Dissatisfaction
+792,Neutral,Question / Request for Help
+793,Happiness,Gratitude / Positive Feedback
+794,Anger,Complaint / Dissatisfaction
+795,Anger,Question / Request for Help
+796,Happiness,Gratitude / Positive Feedback
+797,Happiness,Gratitude / Positive Feedback
+798,Sadness,Question / Request for Help
+799,Anger,Complaint / Dissatisfaction
+800,Happiness,Gratitude / Positive Feedback
+801,Happiness,Gratitude / Positive Feedback
+802,Anger,Complaint / Dissatisfaction
+803,Happiness,Gratitude / Positive Feedback
+804,Happiness,Gratitude / Positive Feedback
+805,Happiness,Gratitude / Positive Feedback
+806,Anger,Complaint / Dissatisfaction
+807,Anger,Complaint / Dissatisfaction
+808,Happiness,Gratitude / Positive Feedback
+809,Anger,Complaint / Dissatisfaction
+810,Anger,Complaint / Dissatisfaction
+811,Anger,Complaint / Dissatisfaction
+812,Neutral,Neutral Comment
+813,Anger,Complaint / Dissatisfaction
+814,Anger,Complaint / Dissatisfaction
+815,Happiness,Gratitude / Positive Feedback
+816,Anger,Complaint / Dissatisfaction
+817,Happiness,Gratitude / Positive Feedback
+818,Happiness,Gratitude / Positive Feedback
+819,Anger,Complaint / Dissatisfaction
+820,Happiness,Gratitude / Positive Feedback
+821,Anger,Complaint / Dissatisfaction
+822,Anger,Complaint / Dissatisfaction
+823,Happiness,Gratitude / Positive Feedback
+824,Neutral,Neutral Comment
+825,Anger,Complaint / Dissatisfaction
+826,Happiness,Gratitude / Positive Feedback
+827,Happiness,Gratitude / Positive Feedback
+828,Happiness,Gratitude / Positive Feedback
+829,Happiness,Gratitude / Positive Feedback
+830,Neutral,Question / Request for Help
+831,Anger,Complaint / Dissatisfaction
+832,Neutral,Neutral Comment
+833,Happiness,Gratitude / Positive Feedback
+834,Happiness,Gratitude / Positive Feedback
+835,Happiness,Gratitude / Positive Feedback
+836,Happiness,Gratitude / Positive Feedback
+837,Happiness,Suggestion / Idea
+838,Sadness,Gratitude / Positive Feedback
+839,Happiness,Gratitude / Positive Feedback
+840,Happiness,Gratitude / Positive Feedback
+841,Happiness,Gratitude / Positive Feedback
+842,Happiness,Gratitude / Positive Feedback
+843,Happiness,Gratitude / Positive Feedback
+844,Happiness,Gratitude / Positive Feedback
+845,Neutral,Neutral Comment
+846,Happiness,Gratitude / Positive Feedback
+847,Happiness,Gratitude / Positive Feedback
+848,Happiness,Gratitude / Positive Feedback
+849,Happiness,Gratitude / Positive Feedback
+850,Happiness,Gratitude / Positive Feedback
+851,Happiness,Gratitude / Positive Feedback
+852,Happiness,Gratitude / Positive Feedback
+853,Happiness,Gratitude / Positive Feedback
+854,Happiness,Gratitude / Positive Feedback
+855,Happiness,Gratitude / Positive Feedback
+856,Happiness,Gratitude / Positive Feedback
+857,Happiness,Gratitude / Positive Feedback
+858,Happiness,Gratitude / Positive Feedback
+859,Happiness,Gratitude / Positive Feedback
+860,Anger,Complaint / Dissatisfaction
+861,Happiness,Gratitude / Positive Feedback
+862,Happiness,Gratitude / Positive Feedback
+863,Anger,Complaint / Dissatisfaction
+864,Happiness,Gratitude / Positive Feedback
+865,Happiness,Gratitude / Positive Feedback
+866,Neutral,Question / Request for Help
+867,Happiness,Gratitude / Positive Feedback
+868,Happiness,Gratitude / Positive Feedback
+869,Anger,Complaint / Dissatisfaction
+870,Happiness,Gratitude / Positive Feedback
+871,Happiness,Gratitude / Positive Feedback
+872,Happiness,Gratitude / Positive Feedback
+873,Happiness,Gratitude / Positive Feedback
+874,Anger,Complaint / Dissatisfaction
+875,Anger,Complaint / Dissatisfaction
+876,Happiness,Gratitude / Positive Feedback
+877,Anger,Complaint / Dissatisfaction
+878,Anger,Complaint / Dissatisfaction
+879,Anger,Complaint / Dissatisfaction
+880,Happiness,Gratitude / Positive Feedback
+881,Anger,Complaint / Dissatisfaction
+882,Anger,Complaint / Dissatisfaction
+883,Happiness,Gratitude / Positive Feedback
+884,Neutral,Suggestion / Idea
+885,Happiness,Gratitude / Positive Feedback
+886,Neutral,Neutral Comment
+887,Happiness,Gratitude / Positive Feedback
+888,Happiness,Complaint / Dissatisfaction
+889,Happiness,Gratitude / Positive Feedback
+890,Anger,Complaint / Dissatisfaction
+891,Happiness,Gratitude / Positive Feedback
+892,Neutral,Neutral Comment
+893,Anger,Complaint / Dissatisfaction
+894,Happiness,Gratitude / Positive Feedback
+895,Happiness,Gratitude / Positive Feedback
+896,Happiness,Gratitude / Positive Feedback
+897,Happiness,Gratitude / Positive Feedback
+898,Anger,Complaint / Dissatisfaction
+899,Happiness,Gratitude / Positive Feedback
+900,Neutral,Neutral Comment
+901,Happiness,Gratitude / Positive Feedback
+902,Happiness,Gratitude / Positive Feedback
+903,Happiness,Gratitude / Positive Feedback
+904,Happiness,Gratitude / Positive Feedback
+905,Happiness,Gratitude / Positive Feedback
+906,Happiness,Gratitude / Positive Feedback
+907,Happiness,Gratitude / Positive Feedback
+908,Neutral,Suggestion / Idea
+909,Happiness,Gratitude / Positive Feedback
+910,Happiness,Gratitude / Positive Feedback
+911,Anger,Complaint / Dissatisfaction
+912,Disgust,Complaint / Dissatisfaction
+913,Happiness,Gratitude / Positive Feedback
+914,Happiness,Gratitude / Positive Feedback
+915,Happiness,Gratitude / Positive Feedback
+916,Happiness,Gratitude / Positive Feedback
+917,Happiness,Gratitude / Positive Feedback
+918,Happiness,Gratitude / Positive Feedback
+919,Happiness,Gratitude / Positive Feedback
+920,Happiness,Gratitude / Positive Feedback
+921,Happiness,Gratitude / Positive Feedback
+922,Happiness,Gratitude / Positive Feedback
+923,Neutral,Neutral Comment
+924,Happiness,Gratitude / Positive Feedback
+925,Happiness,Gratitude / Positive Feedback
+926,Happiness,Gratitude / Positive Feedback
+927,Anger,Complaint / Dissatisfaction
+928,Anger,Complaint / Dissatisfaction
+929,Neutral,Question / Request for Help
+930,Happiness,Gratitude / Positive Feedback
+931,Happiness,Gratitude / Positive Feedback
+932,Happiness,Gratitude / Positive Feedback
+933,Neutral,Question / Request for Help
+934,Anger,Complaint / Dissatisfaction
+935,Happiness,Gratitude / Positive Feedback
+936,Happiness,Suggestion / Idea
+937,Anger,Complaint / Dissatisfaction
+938,Anger,Complaint / Dissatisfaction
+939,Anger,Complaint / Dissatisfaction
+940,Happiness,Gratitude / Positive Feedback
+941,Happiness,Gratitude / Positive Feedback
+942,Anger,Complaint / Dissatisfaction
+943,Happiness,Gratitude / Positive Feedback
+944,Happiness,Gratitude / Positive Feedback
+945,Happiness,Gratitude / Positive Feedback
+946,Happiness,Gratitude / Positive Feedback
+947,Happiness,Gratitude / Positive Feedback
+948,Happiness,Gratitude / Positive Feedback
+949,Anger,Complaint / Dissatisfaction
+950,Happiness,Gratitude / Positive Feedback
+951,Happiness,Gratitude / Positive Feedback
+952,Happiness,Gratitude / Positive Feedback
+953,Happiness,Gratitude / Positive Feedback
+954,Happiness,Gratitude / Positive Feedback
+955,Anger,Complaint / Dissatisfaction
+956,Happiness,Gratitude / Positive Feedback
+957,Anger,Complaint / Dissatisfaction
+958,Happiness,Gratitude / Positive Feedback
+959,Happiness,Gratitude / Positive Feedback
+960,Happiness,Gratitude / Positive Feedback
+961,Happiness,Gratitude / Positive Feedback
+962,Happiness,Gratitude / Positive Feedback
+963,Anger,Complaint / Dissatisfaction
+964,Neutral,Question / Request for Help
+965,Anger,Complaint / Dissatisfaction
+966,Anger,Complaint / Dissatisfaction
+967,Happiness,Gratitude / Positive Feedback
+968,Happiness,Gratitude / Positive Feedback
+969,Happiness,Gratitude / Positive Feedback
+970,Happiness,Gratitude / Positive Feedback
+971,Surprise,Neutral Comment
+972,Happiness,Gratitude / Positive Feedback
+973,Neutral,Question / Request for Help
+974,Happiness,Gratitude / Positive Feedback
+975,Happiness,Gratitude / Positive Feedback
+976,Happiness,Gratitude / Positive Feedback
+977,Anger,Complaint / Dissatisfaction
+978,Happiness,Gratitude / Positive Feedback
+979,Happiness,Gratitude / Positive Feedback
+980,Neutral,Question / Request for Help
+981,Happiness,Gratitude / Positive Feedback
+982,Happiness,Gratitude / Positive Feedback
+983,Happiness,Gratitude / Positive Feedback
+984,Happiness,Gratitude / Positive Feedback
+985,Happiness,Gratitude / Positive Feedback
+986,Happiness,Gratitude / Positive Feedback
+987,Happiness,Gratitude / Positive Feedback
+988,Neutral,Neutral Comment
+989,Anger,Complaint / Dissatisfaction
+990,Happiness,Gratitude / Positive Feedback
+991,Happiness,Gratitude / Positive Feedback
+992,Happiness,Gratitude / Positive Feedback
+993,Anger,Complaint / Dissatisfaction
+994,Happiness,Gratitude / Positive Feedback
+995,Happiness,Gratitude / Positive Feedback
+996,Happiness,Gratitude / Positive Feedback
+997,Anger,Complaint / Dissatisfaction
+998,Happiness,Gratitude / Positive Feedback
+999,Happiness,Gratitude / Positive Feedback
+1000,Happiness,Gratitude / Positive Feedback
+1001,Happiness,Gratitude / Positive Feedback
+1002,Happiness,Gratitude / Positive Feedback
+1003,Anger,Complaint / Dissatisfaction
+1004,Happiness,Gratitude / Positive Feedback
+1005,Happiness,Gratitude / Positive Feedback
+1006,Happiness,Gratitude / Positive Feedback
+1007,Happiness,Gratitude / Positive Feedback
+1008,Anger,Complaint / Dissatisfaction
+1009,Happiness,Gratitude / Positive Feedback
+1010,Anger,Complaint / Dissatisfaction
+1011,Anger,Complaint / Dissatisfaction
+1012,Happiness,Gratitude / Positive Feedback
+1013,Happiness,Gratitude / Positive Feedback
+1014,Sadness,Complaint / Dissatisfaction
+1015,Anger,Complaint / Dissatisfaction
+1016,Happiness,Gratitude / Positive Feedback
+1017,Happiness,Gratitude / Positive Feedback
+1018,Happiness,Gratitude / Positive Feedback
+1019,Happiness,Gratitude / Positive Feedback
+1020,Happiness,Gratitude / Positive Feedback
+1021,Happiness,Gratitude / Positive Feedback
+1022,Anger,Complaint / Dissatisfaction
+1023,Happiness,Gratitude / Positive Feedback
+1024,Happiness,Gratitude / Positive Feedback
+1025,Happiness,Gratitude / Positive Feedback
+1026,Neutral,Question / Request for Help
+1027,Happiness,Gratitude / Positive Feedback
+1028,Anger,Complaint / Dissatisfaction
+1029,Neutral,Neutral Comment
+1030,Neutral,Gratitude / Positive Feedback
+1031,Happiness,Gratitude / Positive Feedback
+1032,Happiness,Gratitude / Positive Feedback
+1033,Happiness,Gratitude / Positive Feedback
+1034,Anger,Complaint / Dissatisfaction
+1035,Happiness,Gratitude / Positive Feedback
+1036,Happiness,Gratitude / Positive Feedback
+1037,Anger,Complaint / Dissatisfaction
+1038,Happiness,Gratitude / Positive Feedback
+1039,Anger,Complaint / Dissatisfaction
+1040,Happiness,Gratitude / Positive Feedback
+1041,Anger,Complaint / Dissatisfaction
+1042,Neutral,Question / Request for Help
+1043,Happiness,Gratitude / Positive Feedback
+1044,Anger,Complaint / Dissatisfaction
+1045,Happiness,Gratitude / Positive Feedback
+1046,Neutral,Question / Request for Help
+1047,Happiness,Gratitude / Positive Feedback
+1048,Happiness,Gratitude / Positive Feedback
+1049,Happiness,Gratitude / Positive Feedback
+1050,Happiness,Gratitude / Positive Feedback
+1051,Happiness,Gratitude / Positive Feedback
+1052,Happiness,Gratitude / Positive Feedback
+1053,Happiness,Gratitude / Positive Feedback
+1054,Anger,Complaint / Dissatisfaction
+1055,Happiness,Gratitude / Positive Feedback
+1056,Anger,Complaint / Dissatisfaction
+1057,Happiness,Gratitude / Positive Feedback
+1058,Happiness,Gratitude / Positive Feedback
+1059,Happiness,Gratitude / Positive Feedback
+1060,Happiness,Gratitude / Positive Feedback
+1061,Happiness,Suggestion / Idea
+1062,Happiness,Gratitude / Positive Feedback
+1063,Neutral,Suggestion / Idea
+1064,Happiness,Gratitude / Positive Feedback
+1065,Anger,Complaint / Dissatisfaction
+1066,Happiness,Gratitude / Positive Feedback
+1067,Neutral,Question / Request for Help
+1068,Happiness,Gratitude / Positive Feedback
+1069,Neutral,Question / Request for Help
+1070,Happiness,Suggestion / Idea
+1071,Happiness,Gratitude / Positive Feedback
+1072,Happiness,Gratitude / Positive Feedback
+1073,Happiness,Gratitude / Positive Feedback
+1074,Happiness,Gratitude / Positive Feedback
+1075,Happiness,Gratitude / Positive Feedback
+1076,Neutral,Neutral Comment
+1077,Anger,Complaint / Dissatisfaction
+1078,Anger,Complaint / Dissatisfaction
+1079,Anger,Complaint / Dissatisfaction
+1080,Happiness,Gratitude / Positive Feedback
+1081,Happiness,Gratitude / Positive Feedback
+1082,Happiness,Gratitude / Positive Feedback
+1083,Happiness,Gratitude / Positive Feedback
+1084,Happiness,Gratitude / Positive Feedback
+1085,Happiness,Gratitude / Positive Feedback
+1086,Happiness,Gratitude / Positive Feedback
+1087,Happiness,Gratitude / Positive Feedback
+1088,Happiness,Gratitude / Positive Feedback
+1089,Anger,Complaint / Dissatisfaction
+1090,Happiness,Gratitude / Positive Feedback
+1091,Anger,Complaint / Dissatisfaction
+1092,Happiness,Gratitude / Positive Feedback
+1093,Happiness,Gratitude / Positive Feedback
+1094,Anger,Complaint / Dissatisfaction
+1095,Happiness,Gratitude / Positive Feedback
+1096,Anger,Complaint / Dissatisfaction
+1097,Anger,Complaint / Dissatisfaction
+1098,Neutral,Question / Request for Help
+1099,Disgust,Complaint / Dissatisfaction
+1100,Happiness,Gratitude / Positive Feedback
+1101,Happiness,Gratitude / Positive Feedback
+1102,Happiness,Gratitude / Positive Feedback
+1103,Happiness,Gratitude / Positive Feedback
+1104,Anger,Complaint / Dissatisfaction
+1105,Sadness,Complaint / Dissatisfaction
+1106,Anger,Complaint / Dissatisfaction
+1107,Happiness,Gratitude / Positive Feedback
+1108,Happiness,Gratitude / Positive Feedback
+1109,Happiness,Gratitude / Positive Feedback
+1110,Anger,Complaint / Dissatisfaction
+1111,Happiness,Gratitude / Positive Feedback
+1112,Anger,Complaint / Dissatisfaction
+1113,Happiness,Gratitude / Positive Feedback
+1114,Happiness,Gratitude / Positive Feedback
+1115,Happiness,Gratitude / Positive Feedback
+1116,Happiness,Gratitude / Positive Feedback
+1117,Neutral,Neutral Comment
+1118,Happiness,Gratitude / Positive Feedback
+1119,Happiness,Gratitude / Positive Feedback
+1120,Happiness,Gratitude / Positive Feedback
+1121,Happiness,Gratitude / Positive Feedback
+1122,Happiness,Gratitude / Positive Feedback
+1123,Neutral,Question / Request for Help
+1124,Happiness,Gratitude / Positive Feedback
+1125,Anger,Complaint / Dissatisfaction
+1126,Happiness,Gratitude / Positive Feedback
+1127,Happiness,Gratitude / Positive Feedback
+1128,Happiness,Gratitude / Positive Feedback
+1129,Neutral,Question / Request for Help
+1130,Happiness,Gratitude / Positive Feedback
+1131,Neutral,Question / Request for Help
+1132,Neutral,Neutral Comment
+1133,Happiness,Gratitude / Positive Feedback
+1134,Happiness,Gratitude / Positive Feedback
+1135,Happiness,Gratitude / Positive Feedback
+1136,Neutral,Suggestion / Idea
+1137,Anger,Complaint / Dissatisfaction
+1138,Happiness,Gratitude / Positive Feedback
+1139,Happiness,Gratitude / Positive Feedback
+1140,Happiness,Gratitude / Positive Feedback
+1141,Happiness,Gratitude / Positive Feedback
+1142,Sadness,Complaint / Dissatisfaction
+1143,Anger,Complaint / Dissatisfaction
+1144,Neutral,Question / Request for Help
+1145,Happiness,Gratitude / Positive Feedback
+1146,Happiness,Gratitude / Positive Feedback
+1147,Happiness,Gratitude / Positive Feedback
+1148,Anger,Complaint / Dissatisfaction
+1149,Happiness,Gratitude / Positive Feedback
+1150,Happiness,Gratitude / Positive Feedback
+1151,Happiness,Gratitude / Positive Feedback
+1152,Happiness,Gratitude / Positive Feedback
+1153,Anger,Complaint / Dissatisfaction
+1154,Happiness,Gratitude / Positive Feedback
+1155,Happiness,Gratitude / Positive Feedback
+1156,Happiness,Gratitude / Positive Feedback
+1157,Happiness,Gratitude / Positive Feedback
+1158,Disgust,Complaint / Dissatisfaction
+1159,Neutral,Neutral Comment
+1160,Anger,Complaint / Dissatisfaction
+1161,Happiness,Gratitude / Positive Feedback
+1162,Happiness,Gratitude / Positive Feedback
+1163,Happiness,Gratitude / Positive Feedback
+1164,Happiness,Gratitude / Positive Feedback
+1165,Surprise,Neutral Comment
+1166,Happiness,Gratitude / Positive Feedback
+1167,Happiness,Gratitude / Positive Feedback
+1168,Anger,Complaint / Dissatisfaction
+1169,Anger,Complaint / Dissatisfaction
+1170,Happiness,Gratitude / Positive Feedback
+1171,Happiness,Gratitude / Positive Feedback
+1172,Happiness,Gratitude / Positive Feedback
+1173,Anger,Complaint / Dissatisfaction
+1174,Happiness,Gratitude / Positive Feedback
+1175,Happiness,Gratitude / Positive Feedback
+1176,Happiness,Gratitude / Positive Feedback
+1177,Anger,Complaint / Dissatisfaction
+1178,Happiness,Gratitude / Positive Feedback
+1179,Happiness,Gratitude / Positive Feedback
+1180,Happiness,Gratitude / Positive Feedback
+1181,Anger,Complaint / Dissatisfaction
+1182,Anger,Complaint / Dissatisfaction
+1183,Happiness,Gratitude / Positive Feedback
+1184,Neutral,Neutral Comment
+1185,Anger,Complaint / Dissatisfaction
+1186,Happiness,Gratitude / Positive Feedback
+1187,Happiness,Gratitude / Positive Feedback
+1188,Happiness,Gratitude / Positive Feedback
+1189,Neutral,Question / Request for Help
+1190,Anger,Complaint / Dissatisfaction
+1191,Happiness,Gratitude / Positive Feedback
+1192,Happiness,Gratitude / Positive Feedback
+1193,Anger,Complaint / Dissatisfaction
+1194,Happiness,Gratitude / Positive Feedback
+1195,Happiness,Gratitude / Positive Feedback
+1196,Happiness,Gratitude / Positive Feedback
+1197,Anger,Complaint / Dissatisfaction
+1198,Happiness,Gratitude / Positive Feedback
+1199,Happiness,Gratitude / Positive Feedback
+1200,Anger,Complaint / Dissatisfaction
+1201,Happiness,Gratitude / Positive Feedback
+1202,Happiness,Gratitude / Positive Feedback
+1203,Happiness,Gratitude / Positive Feedback
+1204,Happiness,Gratitude / Positive Feedback
+1205,Happiness,Gratitude / Positive Feedback
+1206,Anger,Complaint / Dissatisfaction
+1207,Happiness,Gratitude / Positive Feedback
+1208,Happiness,Gratitude / Positive Feedback
+1209,Happiness,Gratitude / Positive Feedback
+1210,Anger,Complaint / Dissatisfaction
+1211,Happiness,Gratitude / Positive Feedback
+1212,Anger,Complaint / Dissatisfaction
+1213,Happiness,Gratitude / Positive Feedback
+1214,Happiness,Gratitude / Positive Feedback
+1215,Happiness,Gratitude / Positive Feedback
+1216,Happiness,Gratitude / Positive Feedback
+1217,Happiness,Gratitude / Positive Feedback
+1218,Neutral,Question / Request for Help
+1219,Happiness,Gratitude / Positive Feedback
+1220,Neutral,Question / Request for Help
+1221,Happiness,Gratitude / Positive Feedback
+1222,Anger,Complaint / Dissatisfaction
+1223,Happiness,Suggestion / Idea
+1224,Anger,Complaint / Dissatisfaction
+1225,Happiness,Gratitude / Positive Feedback
+1226,Happiness,Gratitude / Positive Feedback
+1227,Anger,Complaint / Dissatisfaction
+1228,Happiness,Gratitude / Positive Feedback
+1229,Sadness,Complaint / Dissatisfaction
+1230,Happiness,Gratitude / Positive Feedback
+1231,Happiness,Gratitude / Positive Feedback
+1232,Happiness,Gratitude / Positive Feedback
+1233,Happiness,Gratitude / Positive Feedback
+1234,Happiness,Gratitude / Positive Feedback
+1235,Happiness,Gratitude / Positive Feedback
+1236,Happiness,Suggestion / Idea
+1237,Happiness,Gratitude / Positive Feedback
+1238,Happiness,Gratitude / Positive Feedback
+1239,Happiness,Gratitude / Positive Feedback
+1240,Happiness,Gratitude / Positive Feedback
+1241,Happiness,Gratitude / Positive Feedback
+1242,Anger,Complaint / Dissatisfaction
+1243,Happiness,Gratitude / Positive Feedback
+1244,Happiness,Gratitude / Positive Feedback
+1245,Anger,Complaint / Dissatisfaction
+1246,Happiness,Gratitude / Positive Feedback
+1247,Happiness,Gratitude / Positive Feedback
+1248,Happiness,Gratitude / Positive Feedback
+1249,Anger,Complaint / Dissatisfaction
+1250,Happiness,Gratitude / Positive Feedback
+1251,Anger,Complaint / Dissatisfaction
+1252,Neutral,Neutral Comment
+1253,Happiness,Gratitude / Positive Feedback
+1254,Happiness,Gratitude / Positive Feedback
+1255,Happiness,Gratitude / Positive Feedback
+1256,Happiness,Gratitude / Positive Feedback
+1257,Happiness,Gratitude / Positive Feedback
+1258,Neutral,Question / Request for Help
+1259,Happiness,Gratitude / Positive Feedback
+1260,Anger,Complaint / Dissatisfaction
+1261,Happiness,Gratitude / Positive Feedback
+1262,Happiness,Gratitude / Positive Feedback
+1263,Anger,Complaint / Dissatisfaction
+1264,Happiness,Gratitude / Positive Feedback
+1265,Neutral,Question / Request for Help
+1266,Happiness,Gratitude / Positive Feedback
+1267,Anger,Complaint / Dissatisfaction
+1268,Anger,Complaint / Dissatisfaction
+1269,Happiness,Gratitude / Positive Feedback
+1270,Anger,Complaint / Dissatisfaction
+1271,Happiness,Gratitude / Positive Feedback
+1272,Happiness,Gratitude / Positive Feedback
+1273,Happiness,Gratitude / Positive Feedback
+1274,Happiness,Gratitude / Positive Feedback
+1275,Happiness,Gratitude / Positive Feedback
+1276,Anger,Complaint / Dissatisfaction
+1277,Happiness,Gratitude / Positive Feedback
+1278,Happiness,Gratitude / Positive Feedback
+1279,Anger,Complaint / Dissatisfaction
+1280,Happiness,Gratitude / Positive Feedback
+1281,Happiness,Gratitude / Positive Feedback
+1282,Neutral,Neutral Comment
+1283,Happiness,Gratitude / Positive Feedback
+1284,Anger,Complaint / Dissatisfaction
+1285,Happiness,Gratitude / Positive Feedback
+1286,Anger,Complaint / Dissatisfaction
+1287,Happiness,Gratitude / Positive Feedback
+1288,Neutral,Neutral Comment
+1289,Happiness,Gratitude / Positive Feedback
+1290,Neutral,Question / Request for Help
+1291,Anger,Complaint / Dissatisfaction
+1292,Happiness,Gratitude / Positive Feedback
+1293,Happiness,Gratitude / Positive Feedback
+1294,Anger,Complaint / Dissatisfaction
+1295,Happiness,Gratitude / Positive Feedback
+1296,Happiness,Gratitude / Positive Feedback
+1297,Fear,Question / Request for Help
+1298,Happiness,Gratitude / Positive Feedback
+1299,Happiness,Gratitude / Positive Feedback
+1300,Happiness,Gratitude / Positive Feedback
+1301,Happiness,Gratitude / Positive Feedback
+1302,Neutral,Neutral Comment
+1303,Happiness,Gratitude / Positive Feedback
+1304,Happiness,Gratitude / Positive Feedback
+1305,Happiness,Gratitude / Positive Feedback
+1306,Anger,Complaint / Dissatisfaction
+1307,Happiness,Gratitude / Positive Feedback
+1308,Anger,Complaint / Dissatisfaction
+1309,Disgust,Complaint / Dissatisfaction
+1310,Neutral,Neutral Comment
+1311,Happiness,Gratitude / Positive Feedback
+1312,Disgust,Complaint / Dissatisfaction
+1313,Happiness,Gratitude / Positive Feedback
+1314,Happiness,Gratitude / Positive Feedback
+1315,Happiness,Gratitude / Positive Feedback
+1316,Happiness,Gratitude / Positive Feedback
+1317,Happiness,Gratitude / Positive Feedback
+1318,Anger,Complaint / Dissatisfaction
+1319,Happiness,Gratitude / Positive Feedback
+1320,Anger,Complaint / Dissatisfaction
+1321,Happiness,Gratitude / Positive Feedback
+1322,Happiness,Neutral Comment
+1323,Happiness,Gratitude / Positive Feedback
+1324,Neutral,Neutral Comment
+1325,Happiness,Gratitude / Positive Feedback
+1326,Happiness,Gratitude / Positive Feedback
+1327,Disgust,Complaint / Dissatisfaction
+1328,Happiness,Gratitude / Positive Feedback
+1329,Happiness,Gratitude / Positive Feedback
+1330,Anger,Complaint / Dissatisfaction
+1331,Happiness,Gratitude / Positive Feedback
+1332,Happiness,Gratitude / Positive Feedback
+1333,Anger,Complaint / Dissatisfaction
+1334,Happiness,Gratitude / Positive Feedback
+1335,Sadness,Complaint / Dissatisfaction
+1336,Neutral,Question / Request for Help
+1337,Anger,Complaint / Dissatisfaction
+1338,Happiness,Gratitude / Positive Feedback
+1339,Happiness,Gratitude / Positive Feedback
+1340,Happiness,Gratitude / Positive Feedback
+1341,Anger,Complaint / Dissatisfaction
+1342,Happiness,Gratitude / Positive Feedback
+1343,Anger,Complaint / Dissatisfaction
+1344,Happiness,Gratitude / Positive Feedback
+1345,Happiness,Gratitude / Positive Feedback
+1346,Happiness,Gratitude / Positive Feedback
+1347,Happiness,Gratitude / Positive Feedback
+1348,Happiness,Gratitude / Positive Feedback
+1349,Happiness,Gratitude / Positive Feedback
+1350,Happiness,Gratitude / Positive Feedback
+1351,Happiness,Gratitude / Positive Feedback
+1352,Happiness,Gratitude / Positive Feedback
+1353,Anger,Complaint / Dissatisfaction
+1354,Happiness,Gratitude / Positive Feedback
+1355,Happiness,Gratitude / Positive Feedback
+1356,Happiness,Gratitude / Positive Feedback
+1357,Anger,Complaint / Dissatisfaction
+1358,Neutral,Question / Request for Help
+1359,Happiness,Gratitude / Positive Feedback
+1360,Happiness,Gratitude / Positive Feedback
+1361,Anger,Complaint / Dissatisfaction
+1362,Happiness,Gratitude / Positive Feedback
+1363,Happiness,Gratitude / Positive Feedback
+1364,Happiness,Gratitude / Positive Feedback
+1365,Happiness,Gratitude / Positive Feedback
+1366,Happiness,Gratitude / Positive Feedback
+1367,Happiness,Gratitude / Positive Feedback
+1368,Happiness,Gratitude / Positive Feedback
+1369,Happiness,Gratitude / Positive Feedback
+1370,Happiness,Gratitude / Positive Feedback
+1371,Neutral,Neutral Comment
+1372,Happiness,Gratitude / Positive Feedback
+1373,Happiness,Gratitude / Positive Feedback
+1374,Neutral,Question / Request for Help
+1375,Happiness,Gratitude / Positive Feedback
+1376,Happiness,Gratitude / Positive Feedback
+1377,Sadness,Complaint / Dissatisfaction
+1378,Neutral,Question / Request for Help
+1379,Happiness,Gratitude / Positive Feedback
+1380,Happiness,Gratitude / Positive Feedback
+1381,Anger,Complaint / Dissatisfaction
+1382,Happiness,Gratitude / Positive Feedback
+1383,Anger,Complaint / Dissatisfaction
+1384,Happiness,Gratitude / Positive Feedback
+1385,Happiness,Gratitude / Positive Feedback
+1386,Neutral,Neutral Comment
+1387,Happiness,Gratitude / Positive Feedback
+1388,Happiness,Gratitude / Positive Feedback
+1389,Happiness,Gratitude / Positive Feedback
+1390,Happiness,Gratitude / Positive Feedback
+1391,Anger,Complaint / Dissatisfaction
+1392,Happiness,Gratitude / Positive Feedback
+1393,Anger,Complaint / Dissatisfaction
+1394,Happiness,Gratitude / Positive Feedback
+1395,Happiness,Neutral Comment
+1396,Anger,Complaint / Dissatisfaction
+1397,Happiness,Gratitude / Positive Feedback
+1398,Happiness,Gratitude / Positive Feedback
+1399,Happiness,Gratitude / Positive Feedback
+1400,Happiness,Gratitude / Positive Feedback
+1401,Happiness,Gratitude / Positive Feedback
+1402,Happiness,Gratitude / Positive Feedback
+1403,Anger,Complaint / Dissatisfaction
+1404,Anger,Complaint / Dissatisfaction
+1405,Happiness,Gratitude / Positive Feedback
+1406,Happiness,Gratitude / Positive Feedback
+1407,Anger,Complaint / Dissatisfaction
+1408,Anger,Complaint / Dissatisfaction
+1409,Happiness,Gratitude / Positive Feedback
+1410,Happiness,Suggestion / Idea
+1411,Happiness,Gratitude / Positive Feedback
+1412,Neutral,Neutral Comment
+1413,Happiness,Gratitude / Positive Feedback
+1414,Anger,Complaint / Dissatisfaction
+1415,Happiness,Gratitude / Positive Feedback
+1416,Happiness,Gratitude / Positive Feedback
+1417,Happiness,Gratitude / Positive Feedback
+1418,Anger,Complaint / Dissatisfaction
+1419,Anger,Complaint / Dissatisfaction
+1420,Happiness,Gratitude / Positive Feedback
+1421,Happiness,Gratitude / Positive Feedback
+1422,Happiness,Gratitude / Positive Feedback
+1423,Happiness,Gratitude / Positive Feedback
+1424,Happiness,Gratitude / Positive Feedback
+1425,Anger,Complaint / Dissatisfaction
+1426,Happiness,Gratitude / Positive Feedback
+1427,Happiness,Gratitude / Positive Feedback
+1428,Happiness,Gratitude / Positive Feedback
+1429,Anger,Complaint / Dissatisfaction
+1430,Happiness,Gratitude / Positive Feedback
+1431,Fear,Complaint / Dissatisfaction
+1432,Happiness,Gratitude / Positive Feedback
+1433,Happiness,Gratitude / Positive Feedback
+1434,Happiness,Gratitude / Positive Feedback
+1435,Happiness,Gratitude / Positive Feedback
+1436,Happiness,Gratitude / Positive Feedback
+1437,Sadness,Complaint / Dissatisfaction
+1438,Anger,Complaint / Dissatisfaction
+1439,Neutral,Question / Request for Help
+1440,Anger,Complaint / Dissatisfaction
+1441,Happiness,Gratitude / Positive Feedback
+1442,Anger,Complaint / Dissatisfaction
+1443,Anger,Complaint / Dissatisfaction
+1444,Anger,Complaint / Dissatisfaction
+1445,Neutral,Question / Request for Help
+1446,Happiness,Gratitude / Positive Feedback
+1447,Neutral,Question / Request for Help
+1448,Happiness,Gratitude / Positive Feedback
+1449,Anger,Complaint / Dissatisfaction
+1450,Neutral,Question / Request for Help
+1451,Happiness,Gratitude / Positive Feedback
+1452,Happiness,Gratitude / Positive Feedback
+1453,Happiness,Gratitude / Positive Feedback
+1454,Happiness,Gratitude / Positive Feedback
+1455,Neutral,Suggestion / Idea
+1456,Anger,Complaint / Dissatisfaction
+1457,Happiness,Gratitude / Positive Feedback
+1458,Happiness,Gratitude / Positive Feedback
+1459,Anger,Complaint / Dissatisfaction
+1460,Happiness,Gratitude / Positive Feedback
+1461,Happiness,Gratitude / Positive Feedback
+1462,Neutral,Suggestion / Idea
+1463,Happiness,Gratitude / Positive Feedback
+1464,Happiness,Gratitude / Positive Feedback
+1465,Happiness,Gratitude / Positive Feedback
+1466,Happiness,Gratitude / Positive Feedback
+1467,Happiness,Gratitude / Positive Feedback
+1468,Anger,Complaint / Dissatisfaction
+1469,Happiness,Suggestion / Idea
+1470,Happiness,Gratitude / Positive Feedback
+1471,Neutral,Neutral Comment
+1472,Happiness,Gratitude / Positive Feedback
+1473,Happiness,Gratitude / Positive Feedback
+1474,Happiness,Gratitude / Positive Feedback
+1475,Anger,Complaint / Dissatisfaction
+1476,Neutral,Neutral Comment
+1477,Happiness,Gratitude / Positive Feedback
+1478,Neutral,Question / Request for Help
+1479,Happiness,Gratitude / Positive Feedback
+1480,Disgust,Complaint / Dissatisfaction
+1481,Neutral,Neutral Comment
+1482,Happiness,Suggestion / Idea
+1483,Happiness,Gratitude / Positive Feedback
+1484,Happiness,Gratitude / Positive Feedback
+1485,Happiness,Gratitude / Positive Feedback
+1486,Fear,Question / Request for Help
+1487,Anger,Complaint / Dissatisfaction
+1488,Neutral,Question / Request for Help
+1489,Happiness,Gratitude / Positive Feedback
+1490,Happiness,Gratitude / Positive Feedback
+1491,Happiness,Gratitude / Positive Feedback
+1492,Happiness,Gratitude / Positive Feedback
+1493,Happiness,Gratitude / Positive Feedback
+1494,Happiness,Gratitude / Positive Feedback
+1495,Neutral,Question / Request for Help
+1496,Happiness,Gratitude / Positive Feedback
+1497,Neutral,Question / Request for Help
+1498,Happiness,Gratitude / Positive Feedback
+1499,Neutral,Question / Request for Help
+1500,Sadness,Complaint / Dissatisfaction
+1501,Anger,Complaint / Dissatisfaction
+1502,Anger,Complaint / Dissatisfaction
+1503,Neutral,Neutral Comment
+1504,Happiness,Gratitude / Positive Feedback
+1505,Neutral,Question / Request for Help
+1506,Happiness,Gratitude / Positive Feedback
+1507,Anger,Complaint / Dissatisfaction
+1508,Happiness,Gratitude / Positive Feedback
+1509,Happiness,Gratitude / Positive Feedback
+1510,Happiness,Gratitude / Positive Feedback
+1511,Happiness,Gratitude / Positive Feedback
+1512,Happiness,Gratitude / Positive Feedback
+1513,Anger,Complaint / Dissatisfaction
+1514,Anger,Complaint / Dissatisfaction
+1515,Happiness,Gratitude / Positive Feedback
+1516,Neutral,Question / Request for Help
+1517,Happiness,Gratitude / Positive Feedback
+1518,Neutral,Question / Request for Help
+1519,Happiness,Gratitude / Positive Feedback
+1520,Happiness,Gratitude / Positive Feedback
+1521,Happiness,Gratitude / Positive Feedback
+1522,Anger,Complaint / Dissatisfaction
+1523,Happiness,Gratitude / Positive Feedback
+1524,Happiness,Gratitude / Positive Feedback
+1525,Happiness,Gratitude / Positive Feedback
+1526,Happiness,Gratitude / Positive Feedback
+1527,Happiness,Gratitude / Positive Feedback
+1528,Neutral,Neutral Comment
+1529,Anger,Complaint / Dissatisfaction
+1530,Happiness,Gratitude / Positive Feedback
+1531,Happiness,Gratitude / Positive Feedback
+1532,Happiness,Gratitude / Positive Feedback
+1533,Happiness,Gratitude / Positive Feedback
+1534,Anger,Complaint / Dissatisfaction
+1535,Anger,Complaint / Dissatisfaction
+1536,Happiness,Gratitude / Positive Feedback
+1537,Happiness,Gratitude / Positive Feedback
+1538,Happiness,Gratitude / Positive Feedback
+1539,Happiness,Gratitude / Positive Feedback
+1540,Happiness,Gratitude / Positive Feedback
+1541,Happiness,Gratitude / Positive Feedback
+1542,Happiness,Gratitude / Positive Feedback
+1543,Neutral,Question / Request for Help
+1544,Anger,Complaint / Dissatisfaction
+1545,Happiness,Gratitude / Positive Feedback
+1546,Neutral,Neutral Comment
+1547,Happiness,Gratitude / Positive Feedback
+1548,Happiness,Gratitude / Positive Feedback
+1549,Happiness,Gratitude / Positive Feedback
+1550,Happiness,Gratitude / Positive Feedback
+1551,Happiness,Gratitude / Positive Feedback
+1552,Happiness,Gratitude / Positive Feedback
+1553,Anger,Complaint / Dissatisfaction
+1554,Neutral,Neutral Comment
+1555,Happiness,Gratitude / Positive Feedback
+1556,Happiness,Gratitude / Positive Feedback
+1557,Happiness,Gratitude / Positive Feedback
+1558,Happiness,Gratitude / Positive Feedback
+1559,Anger,Complaint / Dissatisfaction
+1560,Happiness,Gratitude / Positive Feedback
+1561,Happiness,Gratitude / Positive Feedback
+1562,Happiness,Gratitude / Positive Feedback
+1563,Happiness,Gratitude / Positive Feedback
+1564,Neutral,Complaint / Dissatisfaction
+1565,Happiness,Gratitude / Positive Feedback
+1566,Happiness,Gratitude / Positive Feedback
+1567,Happiness,Gratitude / Positive Feedback
+1568,Happiness,Gratitude / Positive Feedback
+1569,Happiness,Gratitude / Positive Feedback
+1570,Happiness,Gratitude / Positive Feedback
+1571,Happiness,Gratitude / Positive Feedback
+1572,Happiness,Neutral Comment
+1573,Anger,Complaint / Dissatisfaction
+1574,Anger,Complaint / Dissatisfaction
+1575,Anger,Complaint / Dissatisfaction
+1576,Happiness,Gratitude / Positive Feedback
+1577,Happiness,Gratitude / Positive Feedback
+1578,Happiness,Gratitude / Positive Feedback
+1579,Happiness,Suggestion / Idea
+1580,Happiness,Gratitude / Positive Feedback
+1581,Neutral,Neutral Comment
+1582,Happiness,Gratitude / Positive Feedback
+1583,Happiness,Gratitude / Positive Feedback
+1584,Happiness,Gratitude / Positive Feedback
+1585,Happiness,Gratitude / Positive Feedback
+1586,Anger,Complaint / Dissatisfaction
+1587,Happiness,Gratitude / Positive Feedback
+1588,Happiness,Gratitude / Positive Feedback
+1589,Happiness,Gratitude / Positive Feedback
+1590,Happiness,Gratitude / Positive Feedback
+1591,Neutral,Question / Request for Help
+1592,Happiness,Gratitude / Positive Feedback
+1593,Happiness,Gratitude / Positive Feedback
+1594,Happiness,Gratitude / Positive Feedback
+1595,Anger,Complaint / Dissatisfaction
+1596,Sadness,Question / Request for Help
+1597,Happiness,Gratitude / Positive Feedback
+1598,Anger,Complaint / Dissatisfaction
+1599,Anger,Complaint / Dissatisfaction
+1600,Anger,Complaint / Dissatisfaction
+1601,Neutral,Neutral Comment
+1602,Happiness,Gratitude / Positive Feedback
+1603,Anger,Complaint / Dissatisfaction
+1604,Happiness,Gratitude / Positive Feedback
+1605,Anger,Complaint / Dissatisfaction
+1606,Happiness,Gratitude / Positive Feedback
+1607,Anger,Complaint / Dissatisfaction
+1608,Happiness,Gratitude / Positive Feedback
+1609,Happiness,Gratitude / Positive Feedback
+1610,Happiness,Gratitude / Positive Feedback
+1611,Neutral,Question / Request for Help
+1612,Fear,Question / Request for Help
+1613,Happiness,Gratitude / Positive Feedback
+1614,Anger,Complaint / Dissatisfaction
+1615,Neutral,Neutral Comment
+1616,Anger,Complaint / Dissatisfaction
+1617,Happiness,Gratitude / Positive Feedback
+1618,Neutral,Neutral Comment
+1619,Happiness,Gratitude / Positive Feedback
+1620,Fear,Complaint / Dissatisfaction
+1621,Happiness,Gratitude / Positive Feedback
+1622,Happiness,Gratitude / Positive Feedback
+1623,Happiness,Gratitude / Positive Feedback
+1624,Happiness,Gratitude / Positive Feedback
+1625,Happiness,Gratitude / Positive Feedback
+1626,Happiness,Gratitude / Positive Feedback
+1627,Happiness,Gratitude / Positive Feedback
+1628,Happiness,Gratitude / Positive Feedback
+1629,Happiness,Gratitude / Positive Feedback
+1630,Neutral,Neutral Comment
+1631,Happiness,Gratitude / Positive Feedback
+1632,Happiness,Gratitude / Positive Feedback
+1633,Happiness,Gratitude / Positive Feedback
+1634,Happiness,Gratitude / Positive Feedback
+1635,Happiness,Gratitude / Positive Feedback
+1636,Neutral,Gratitude / Positive Feedback
+1637,Anger,Complaint / Dissatisfaction
+1638,Happiness,Gratitude / Positive Feedback
+1639,Anger,Complaint / Dissatisfaction
+1640,Happiness,Gratitude / Positive Feedback
+1641,Anger,Complaint / Dissatisfaction
+1642,Neutral,Suggestion / Idea
+1643,Happiness,Suggestion / Idea
+1644,Anger,Complaint / Dissatisfaction
+1645,Neutral,Question / Request for Help
+1646,Anger,Complaint / Dissatisfaction
+1647,Happiness,Gratitude / Positive Feedback
+1648,Happiness,Gratitude / Positive Feedback
+1649,Happiness,Gratitude / Positive Feedback
+1650,Happiness,Gratitude / Positive Feedback
+1651,Happiness,Gratitude / Positive Feedback
+1652,Happiness,Gratitude / Positive Feedback
+1653,Anger,Complaint / Dissatisfaction
+1654,Anger,Complaint / Dissatisfaction
+1655,Happiness,Gratitude / Positive Feedback
+1656,Anger,Complaint / Dissatisfaction
+1657,Happiness,Gratitude / Positive Feedback
+1658,Anger,Complaint / Dissatisfaction
+1659,Happiness,Gratitude / Positive Feedback
+1660,Happiness,Gratitude / Positive Feedback
+1661,Anger,Complaint / Dissatisfaction
+1662,Happiness,Gratitude / Positive Feedback
+1663,Happiness,Gratitude / Positive Feedback
+1664,Happiness,Suggestion / Idea
+1665,Anger,Complaint / Dissatisfaction
+1666,Happiness,Gratitude / Positive Feedback
+1667,Anger,Complaint / Dissatisfaction
+1668,Anger,Complaint / Dissatisfaction
+1669,Anger,Complaint / Dissatisfaction
+1670,Happiness,Gratitude / Positive Feedback
+1671,Happiness,Gratitude / Positive Feedback
+1672,Happiness,Gratitude / Positive Feedback
+1673,Happiness,Gratitude / Positive Feedback
+1674,Anger,Complaint / Dissatisfaction
+1675,Happiness,Gratitude / Positive Feedback
+1676,Happiness,Gratitude / Positive Feedback
+1677,Happiness,Neutral Comment
+1678,Anger,Complaint / Dissatisfaction
+1679,Neutral,Question / Request for Help
+1680,Happiness,Gratitude / Positive Feedback
+1681,Happiness,Gratitude / Positive Feedback
+1682,Happiness,Gratitude / Positive Feedback
+1683,Happiness,Gratitude / Positive Feedback
+1684,Happiness,Gratitude / Positive Feedback
+1685,Neutral,Question / Request for Help
+1686,Sadness,Complaint / Dissatisfaction
+1687,Happiness,Gratitude / Positive Feedback
+1688,Happiness,Gratitude / Positive Feedback
+1689,Happiness,Gratitude / Positive Feedback
+1690,Anger,Complaint / Dissatisfaction
+1691,Happiness,Gratitude / Positive Feedback
+1692,Anger,Complaint / Dissatisfaction
+1693,Happiness,Gratitude / Positive Feedback
+1694,Happiness,Gratitude / Positive Feedback
+1695,Happiness,Gratitude / Positive Feedback
+1696,Anger,Complaint / Dissatisfaction
+1697,Happiness,Gratitude / Positive Feedback
+1698,Happiness,Gratitude / Positive Feedback
+1699,Happiness,Gratitude / Positive Feedback
+1700,Neutral,Neutral Comment
+1701,Anger,Complaint / Dissatisfaction
+1702,Happiness,Gratitude / Positive Feedback
+1703,Happiness,Gratitude / Positive Feedback
+1704,Happiness,Gratitude / Positive Feedback
+1705,Anger,Complaint / Dissatisfaction
+1706,Happiness,Gratitude / Positive Feedback
+1707,Happiness,Gratitude / Positive Feedback
+1708,Happiness,Gratitude / Positive Feedback
+1709,Happiness,Gratitude / Positive Feedback
+1710,Happiness,Gratitude / Positive Feedback
+1711,Neutral,Question / Request for Help
+1712,Happiness,Gratitude / Positive Feedback
+1713,Happiness,Gratitude / Positive Feedback
+1714,Happiness,Gratitude / Positive Feedback
+1715,Happiness,Gratitude / Positive Feedback
+1716,Happiness,Gratitude / Positive Feedback
+1717,Happiness,Gratitude / Positive Feedback
+1718,Happiness,Gratitude / Positive Feedback
+1719,Happiness,Gratitude / Positive Feedback
+1720,Happiness,Gratitude / Positive Feedback
+1721,Happiness,Gratitude / Positive Feedback
+1722,Happiness,Gratitude / Positive Feedback
+1723,Anger,Complaint / Dissatisfaction
+1724,Happiness,Gratitude / Positive Feedback
+1725,Neutral,Question / Request for Help
+1726,Neutral,Question / Request for Help
+1727,Neutral,Question / Request for Help
+1728,Happiness,Gratitude / Positive Feedback
+1729,Happiness,Gratitude / Positive Feedback
+1730,Happiness,Gratitude / Positive Feedback
+1731,Neutral,Neutral Comment
+1732,Happiness,Gratitude / Positive Feedback
+1733,Anger,Complaint / Dissatisfaction
+1734,Happiness,Gratitude / Positive Feedback
+1735,Neutral,Neutral Comment
+1736,Happiness,Gratitude / Positive Feedback
+1737,Happiness,Gratitude / Positive Feedback
+1738,Neutral,Neutral Comment
+1739,Happiness,Gratitude / Positive Feedback
+1740,Happiness,Gratitude / Positive Feedback
+1741,Anger,Complaint / Dissatisfaction
+1742,Happiness,Gratitude / Positive Feedback
+1743,Happiness,Gratitude / Positive Feedback
+1744,Happiness,Gratitude / Positive Feedback
+1745,Happiness,Gratitude / Positive Feedback
+1746,Happiness,Gratitude / Positive Feedback
+1747,Anger,Complaint / Dissatisfaction
+1748,Sadness,Complaint / Dissatisfaction
+1749,Happiness,Gratitude / Positive Feedback
+1750,Neutral,Neutral Comment
+1751,Happiness,Suggestion / Idea
+1752,Happiness,Gratitude / Positive Feedback
+1753,Happiness,Gratitude / Positive Feedback
+1754,Anger,Complaint / Dissatisfaction
+1755,Happiness,Gratitude / Positive Feedback
+1756,Happiness,Gratitude / Positive Feedback
+1757,Happiness,Gratitude / Positive Feedback
+1758,Neutral,Neutral Comment
+1759,Neutral,Neutral Comment
+1760,Happiness,Gratitude / Positive Feedback
+1761,Anger,Complaint / Dissatisfaction
+1762,Happiness,Gratitude / Positive Feedback
+1763,Happiness,Gratitude / Positive Feedback
+1764,Happiness,Gratitude / Positive Feedback
+1765,Anger,Complaint / Dissatisfaction
+1766,Anger,Complaint / Dissatisfaction
+1767,Happiness,Gratitude / Positive Feedback
+1768,Happiness,Gratitude / Positive Feedback
+1769,Anger,Complaint / Dissatisfaction
+1770,Happiness,Gratitude / Positive Feedback
+1771,Anger,Complaint / Dissatisfaction
+1772,Anger,Complaint / Dissatisfaction
+1773,Anger,Complaint / Dissatisfaction
+1774,Happiness,Gratitude / Positive Feedback
+1775,Happiness,Gratitude / Positive Feedback
+1776,Anger,Complaint / Dissatisfaction
+1777,Happiness,Gratitude / Positive Feedback
+1778,Neutral,Neutral Comment
+1779,Happiness,Gratitude / Positive Feedback
+1780,Happiness,Gratitude / Positive Feedback
+1781,Happiness,Gratitude / Positive Feedback
+1782,Anger,Complaint / Dissatisfaction
+1783,Neutral,Neutral Comment
+1784,Anger,Complaint / Dissatisfaction
+1785,Happiness,Gratitude / Positive Feedback
+1786,Happiness,Gratitude / Positive Feedback
+1787,Happiness,Gratitude / Positive Feedback
+1788,Happiness,Suggestion / Idea
+1789,Neutral,Question / Request for Help
+1790,Happiness,Gratitude / Positive Feedback
+1791,Neutral,Question / Request for Help
+1792,Happiness,Suggestion / Idea
+1793,Anger,Complaint / Dissatisfaction
+1794,Happiness,Gratitude / Positive Feedback
+1795,Anger,Complaint / Dissatisfaction
+1796,Happiness,Gratitude / Positive Feedback
+1797,Happiness,Gratitude / Positive Feedback
+1798,Happiness,Gratitude / Positive Feedback
+1799,Anger,Complaint / Dissatisfaction
+1800,Happiness,Gratitude / Positive Feedback
+1801,Anger,Complaint / Dissatisfaction
+1802,Happiness,Gratitude / Positive Feedback
+1803,Anger,Complaint / Dissatisfaction
+1804,Anger,Complaint / Dissatisfaction
+1805,Happiness,Gratitude / Positive Feedback
+1806,Disgust,Complaint / Dissatisfaction
+1807,Neutral,Neutral Comment
+1808,Happiness,Gratitude / Positive Feedback
+1809,Happiness,Gratitude / Positive Feedback
+1810,Happiness,Gratitude / Positive Feedback
+1811,Happiness,Gratitude / Positive Feedback
+1812,Anger,Complaint / Dissatisfaction
+1813,Happiness,Neutral Comment
+1814,Happiness,Gratitude / Positive Feedback
+1815,Happiness,Gratitude / Positive Feedback
+1816,Disgust,Complaint / Dissatisfaction
+1817,Neutral,Neutral Comment
+1818,Anger,Complaint / Dissatisfaction
+1819,Anger,Complaint / Dissatisfaction
+1820,Happiness,Gratitude / Positive Feedback
+1821,Anger,Complaint / Dissatisfaction
+1822,Happiness,Gratitude / Positive Feedback
+1823,Happiness,Gratitude / Positive Feedback
+1824,Happiness,Gratitude / Positive Feedback
+1825,Happiness,Gratitude / Positive Feedback
+1826,Happiness,Gratitude / Positive Feedback
+1827,Happiness,Gratitude / Positive Feedback
+1828,Happiness,Gratitude / Positive Feedback
+1829,Anger,Complaint / Dissatisfaction
+1830,Anger,Complaint / Dissatisfaction
+1831,Happiness,Gratitude / Positive Feedback
+1832,Neutral,Neutral Comment
+1833,Happiness,Gratitude / Positive Feedback
+1834,Happiness,Gratitude / Positive Feedback
+1835,Happiness,Gratitude / Positive Feedback
+1836,Neutral,Complaint / Dissatisfaction
+1837,Happiness,Gratitude / Positive Feedback
+1838,Happiness,Gratitude / Positive Feedback
+1839,Happiness,Gratitude / Positive Feedback
+1840,Anger,Complaint / Dissatisfaction
+1841,Happiness,Gratitude / Positive Feedback
+1842,Happiness,Gratitude / Positive Feedback
+1843,Neutral,Question / Request for Help
+1844,Neutral,Question / Request for Help
+1845,Happiness,Gratitude / Positive Feedback
+1846,Anger,Complaint / Dissatisfaction
+1847,Anger,Complaint / Dissatisfaction
+1848,Happiness,Gratitude / Positive Feedback
+1849,Happiness,Gratitude / Positive Feedback
+1850,Happiness,Suggestion / Idea
+1851,Neutral,Neutral Comment
+1852,Happiness,Gratitude / Positive Feedback
+1853,Happiness,Gratitude / Positive Feedback
+1854,Happiness,Gratitude / Positive Feedback
+1855,Neutral,Question / Request for Help
+1856,Happiness,Gratitude / Positive Feedback
+1857,Happiness,Gratitude / Positive Feedback
+1858,Happiness,Gratitude / Positive Feedback
+1859,Happiness,Gratitude / Positive Feedback
+1860,Anger,Complaint / Dissatisfaction
+1861,Happiness,Gratitude / Positive Feedback
+1862,Anger,Complaint / Dissatisfaction
+1863,Anger,Complaint / Dissatisfaction
+1864,Happiness,Gratitude / Positive Feedback
+1865,Happiness,Gratitude / Positive Feedback
+1866,Happiness,Gratitude / Positive Feedback
+1867,Happiness,Gratitude / Positive Feedback
+1868,Neutral,Question / Request for Help
+1869,Happiness,Gratitude / Positive Feedback
+1870,Anger,Complaint / Dissatisfaction
+1871,Happiness,Gratitude / Positive Feedback
+1872,Neutral,Complaint / Dissatisfaction
+1873,Happiness,Gratitude / Positive Feedback
+1874,Happiness,Gratitude / Positive Feedback
+1875,Happiness,Gratitude / Positive Feedback
+1876,Happiness,Gratitude / Positive Feedback
+1877,Happiness,Gratitude / Positive Feedback
+1878,Happiness,Gratitude / Positive Feedback
+1879,Happiness,Gratitude / Positive Feedback
+1880,Happiness,Gratitude / Positive Feedback
+1881,Neutral,Neutral Comment
+1882,Happiness,Gratitude / Positive Feedback
+1883,Neutral,Neutral Comment
+1884,Happiness,Gratitude / Positive Feedback
+1885,Happiness,Gratitude / Positive Feedback
+1886,Happiness,Suggestion / Idea
+1887,Happiness,Gratitude / Positive Feedback
+1888,Happiness,Gratitude / Positive Feedback
+1889,Happiness,Gratitude / Positive Feedback
+1890,Happiness,Gratitude / Positive Feedback
+1891,Neutral,Question / Request for Help
+1892,Neutral,Question / Request for Help
+1893,Happiness,Gratitude / Positive Feedback
+1894,Happiness,Suggestion / Idea
+1895,Happiness,Gratitude / Positive Feedback
+1896,Anger,Complaint / Dissatisfaction
+1897,Anger,Complaint / Dissatisfaction
+1898,Happiness,Gratitude / Positive Feedback
+1899,Anger,Complaint / Dissatisfaction
+1900,Happiness,Gratitude / Positive Feedback
+1901,Neutral,Neutral Comment
+1902,Happiness,Gratitude / Positive Feedback
+1903,Happiness,Gratitude / Positive Feedback
+1904,Happiness,Gratitude / Positive Feedback
+1905,Happiness,Gratitude / Positive Feedback
+1906,Happiness,Gratitude / Positive Feedback
+1907,Happiness,Gratitude / Positive Feedback
+1908,Happiness,Gratitude / Positive Feedback
+1909,Happiness,Gratitude / Positive Feedback
+1910,Happiness,Gratitude / Positive Feedback
+1911,Happiness,Gratitude / Positive Feedback
+1912,Anger,Complaint / Dissatisfaction
+1913,Neutral,Complaint / Dissatisfaction
+1914,Sadness,Complaint / Dissatisfaction
+1915,Happiness,Gratitude / Positive Feedback
+1916,Happiness,Gratitude / Positive Feedback
+1917,Happiness,Gratitude / Positive Feedback
+1918,Happiness,Gratitude / Positive Feedback
+1919,Happiness,Gratitude / Positive Feedback
+1920,Happiness,Gratitude / Positive Feedback
+1921,Happiness,Gratitude / Positive Feedback
+1922,Anger,Complaint / Dissatisfaction
+1923,Neutral,Question / Request for Help
+1924,Happiness,Gratitude / Positive Feedback
+1925,Anger,Complaint / Dissatisfaction
+1926,Happiness,Gratitude / Positive Feedback
+1927,Anger,Complaint / Dissatisfaction
+1928,Anger,Complaint / Dissatisfaction
+1929,Happiness,Gratitude / Positive Feedback
+1930,Happiness,Gratitude / Positive Feedback
+1931,Anger,Complaint / Dissatisfaction
+1932,Happiness,Gratitude / Positive Feedback
+1933,Sadness,Complaint / Dissatisfaction
+1934,Neutral,Neutral Comment
+1935,Neutral,Neutral Comment
+1936,Happiness,Gratitude / Positive Feedback
+1937,Happiness,Gratitude / Positive Feedback
+1938,Anger,Complaint / Dissatisfaction
+1939,Happiness,Gratitude / Positive Feedback
+1940,Happiness,Gratitude / Positive Feedback
+1941,Neutral,Neutral Comment
+1942,Happiness,Gratitude / Positive Feedback
+1943,Happiness,Gratitude / Positive Feedback
+1944,Happiness,Gratitude / Positive Feedback
+1945,Happiness,Gratitude / Positive Feedback
+1946,Happiness,Gratitude / Positive Feedback
+1947,Neutral,Question / Request for Help
+1948,Happiness,Gratitude / Positive Feedback
+1949,Happiness,Gratitude / Positive Feedback
+1950,Happiness,Gratitude / Positive Feedback
+1951,Happiness,Gratitude / Positive Feedback
+1952,Happiness,Gratitude / Positive Feedback
+1953,Anger,Complaint / Dissatisfaction
+1954,Happiness,Neutral Comment
+1955,Happiness,Gratitude / Positive Feedback
+1956,Happiness,Gratitude / Positive Feedback
+1957,Anger,Complaint / Dissatisfaction
+1958,Happiness,Gratitude / Positive Feedback
+1959,Anger,Complaint / Dissatisfaction
+1960,Happiness,Gratitude / Positive Feedback
+1961,Happiness,Gratitude / Positive Feedback
+1962,Happiness,Gratitude / Positive Feedback
+1963,Happiness,Gratitude / Positive Feedback
+1964,Sadness,Complaint / Dissatisfaction
+1965,Anger,Complaint / Dissatisfaction
+1966,Happiness,Gratitude / Positive Feedback
+1967,Happiness,Gratitude / Positive Feedback
+1968,Anger,Complaint / Dissatisfaction
+1969,Happiness,Gratitude / Positive Feedback
+1970,Happiness,Gratitude / Positive Feedback
+1971,Anger,Complaint / Dissatisfaction
+1972,Happiness,Gratitude / Positive Feedback
+1973,Happiness,Gratitude / Positive Feedback
+1974,Happiness,Gratitude / Positive Feedback
+1975,Happiness,Gratitude / Positive Feedback
+1976,Happiness,Gratitude / Positive Feedback
+1977,Happiness,Gratitude / Positive Feedback
+1978,Anger,Complaint / Dissatisfaction
+1979,Happiness,Gratitude / Positive Feedback
+1980,Happiness,Gratitude / Positive Feedback
+1981,Anger,Complaint / Dissatisfaction
+1982,Happiness,Gratitude / Positive Feedback
+1983,Happiness,Gratitude / Positive Feedback
+1984,Happiness,Gratitude / Positive Feedback
+1985,Happiness,Gratitude / Positive Feedback
+1986,Happiness,Gratitude / Positive Feedback
+1987,Happiness,Gratitude / Positive Feedback
+1988,Anger,Complaint / Dissatisfaction
+1989,Happiness,Gratitude / Positive Feedback
+1990,Happiness,Gratitude / Positive Feedback
+1991,Happiness,Gratitude / Positive Feedback
+1992,Happiness,Gratitude / Positive Feedback
+1993,Happiness,Gratitude / Positive Feedback
+1994,Happiness,Gratitude / Positive Feedback
+1995,Anger,Complaint / Dissatisfaction
+1996,Happiness,Gratitude / Positive Feedback
+1997,Happiness,Suggestion / Idea
+1998,Happiness,Gratitude / Positive Feedback
+1999,Neutral,Suggestion / Idea
+2000,Anger,Complaint / Dissatisfaction
+2001,Anger,Complaint / Dissatisfaction
+2002,Happiness,Neutral Comment
+2003,Neutral,Suggestion / Idea
+2004,Anger,Complaint / Dissatisfaction
+2005,Happiness,Gratitude / Positive Feedback
+2006,Anger,Complaint / Dissatisfaction
+2007,Happiness,Gratitude / Positive Feedback
+2008,Happiness,Gratitude / Positive Feedback
+2009,Happiness,Gratitude / Positive Feedback
+2010,Happiness,Gratitude / Positive Feedback
+2011,Neutral,Question / Request for Help
+2012,Sadness,Complaint / Dissatisfaction
+2013,Anger,Complaint / Dissatisfaction
+2014,Happiness,Gratitude / Positive Feedback
+2015,Anger,Complaint / Dissatisfaction
+2016,Anger,Complaint / Dissatisfaction
+2017,Neutral,Neutral Comment
+2018,Happiness,Gratitude / Positive Feedback
+2019,Happiness,Gratitude / Positive Feedback
+2020,Happiness,Gratitude / Positive Feedback
+2021,Neutral,Question / Request for Help
+2022,Sadness,Complaint / Dissatisfaction
+2023,Happiness,Gratitude / Positive Feedback
+2024,Anger,Complaint / Dissatisfaction
+2025,Happiness,Gratitude / Positive Feedback
+2026,Anger,Complaint / Dissatisfaction
+2027,Anger,Complaint / Dissatisfaction
+2028,Happiness,Gratitude / Positive Feedback
+2029,Happiness,Gratitude / Positive Feedback
+2030,Sadness,Complaint / Dissatisfaction
+2031,Neutral,Neutral Comment
+2032,Neutral,Complaint / Dissatisfaction
+2033,Fear,Complaint / Dissatisfaction
+2034,Happiness,Gratitude / Positive Feedback
+2035,Anger,Complaint / Dissatisfaction
+2036,Happiness,Gratitude / Positive Feedback
+2037,Happiness,Gratitude / Positive Feedback
+2038,Happiness,Gratitude / Positive Feedback
+2039,Neutral,Question / Request for Help
+2040,Neutral,Neutral Comment
+2041,Happiness,Gratitude / Positive Feedback
+2042,Neutral,Neutral Comment
+2043,Anger,Complaint / Dissatisfaction
+2044,Happiness,Gratitude / Positive Feedback
+2045,Happiness,Gratitude / Positive Feedback
+2046,Happiness,Gratitude / Positive Feedback
+2047,Happiness,Gratitude / Positive Feedback
+2048,Happiness,Gratitude / Positive Feedback
+2049,Happiness,Gratitude / Positive Feedback
+2050,Anger,Complaint / Dissatisfaction
+2051,Happiness,Gratitude / Positive Feedback
+2052,Happiness,Gratitude / Positive Feedback
+2053,Happiness,Gratitude / Positive Feedback
+2054,Happiness,Gratitude / Positive Feedback
+2055,Happiness,Gratitude / Positive Feedback
+2056,Happiness,Gratitude / Positive Feedback
+2057,Happiness,Gratitude / Positive Feedback
+2058,Happiness,Gratitude / Positive Feedback
+2059,Anger,Complaint / Dissatisfaction
+2060,Happiness,Gratitude / Positive Feedback
+2061,Anger,Complaint / Dissatisfaction
+2062,Happiness,Gratitude / Positive Feedback
+2063,Happiness,Gratitude / Positive Feedback
+2064,Happiness,Gratitude / Positive Feedback
+2065,Happiness,Gratitude / Positive Feedback
+2066,Happiness,Gratitude / Positive Feedback
+2067,Happiness,Gratitude / Positive Feedback
+2068,Happiness,Gratitude / Positive Feedback
+2069,Happiness,Gratitude / Positive Feedback
+2070,Happiness,Gratitude / Positive Feedback
+2071,Happiness,Gratitude / Positive Feedback
+2072,Happiness,Gratitude / Positive Feedback
+2073,Happiness,Gratitude / Positive Feedback
+2074,Happiness,Gratitude / Positive Feedback
+2075,Neutral,Question / Request for Help
+2076,Happiness,Gratitude / Positive Feedback
+2077,Anger,Complaint / Dissatisfaction
+2078,Happiness,Gratitude / Positive Feedback
+2079,Anger,Complaint / Dissatisfaction
+2080,Happiness,Gratitude / Positive Feedback
+2081,Anger,Complaint / Dissatisfaction
+2082,Happiness,Gratitude / Positive Feedback
+2083,Anger,Complaint / Dissatisfaction
+2084,Disgust,Complaint / Dissatisfaction
+2085,Happiness,Gratitude / Positive Feedback
+2086,Happiness,Gratitude / Positive Feedback
+2087,Happiness,Gratitude / Positive Feedback
+2088,Anger,Complaint / Dissatisfaction
+2089,Happiness,Gratitude / Positive Feedback
+2090,Happiness,Gratitude / Positive Feedback
+2091,Happiness,Gratitude / Positive Feedback
+2092,Happiness,Gratitude / Positive Feedback
+2093,Happiness,Gratitude / Positive Feedback
+2094,Neutral,Suggestion / Idea
+2095,Happiness,Gratitude / Positive Feedback
+2096,Happiness,Gratitude / Positive Feedback
+2097,Surprise,Gratitude / Positive Feedback
+2098,Anger,Complaint / Dissatisfaction
+2099,Happiness,Gratitude / Positive Feedback
+2100,Happiness,Gratitude / Positive Feedback
+2101,Happiness,Gratitude / Positive Feedback
+2102,Happiness,Gratitude / Positive Feedback
+2103,Happiness,Gratitude / Positive Feedback
+2104,Happiness,Gratitude / Positive Feedback
+2105,Neutral,Neutral Comment
+2106,Happiness,Gratitude / Positive Feedback
+2107,Anger,Complaint / Dissatisfaction
+2108,Neutral,Question / Request for Help
+2109,Happiness,Gratitude / Positive Feedback
+2110,Happiness,Gratitude / Positive Feedback
+2111,Happiness,Gratitude / Positive Feedback
+2112,Happiness,Gratitude / Positive Feedback
+2113,Happiness,Gratitude / Positive Feedback
+2114,Happiness,Gratitude / Positive Feedback
+2115,Happiness,Gratitude / Positive Feedback
+2116,Happiness,Gratitude / Positive Feedback
+2117,Happiness,Gratitude / Positive Feedback
+2118,Neutral,Question / Request for Help
+2119,Anger,Complaint / Dissatisfaction
+2120,Anger,Complaint / Dissatisfaction
+2121,Neutral,Question / Request for Help
+2122,Happiness,Gratitude / Positive Feedback
+2123,Anger,Complaint / Dissatisfaction
+2124,Happiness,Gratitude / Positive Feedback
+2125,Happiness,Gratitude / Positive Feedback
+2126,Happiness,Gratitude / Positive Feedback
+2127,Anger,Complaint / Dissatisfaction
+2128,Anger,Complaint / Dissatisfaction
+2129,Anger,Suggestion / Idea
+2130,Neutral,Suggestion / Idea
+2131,Happiness,Gratitude / Positive Feedback
+2132,Anger,Complaint / Dissatisfaction
+2133,Happiness,Gratitude / Positive Feedback
+2134,Happiness,Gratitude / Positive Feedback
+2135,Happiness,Gratitude / Positive Feedback
+2136,Happiness,Gratitude / Positive Feedback
+2137,Sadness,Complaint / Dissatisfaction
+2138,Anger,Complaint / Dissatisfaction
+2139,Happiness,Gratitude / Positive Feedback
+2140,Happiness,Gratitude / Positive Feedback
+2141,Happiness,Gratitude / Positive Feedback
+2142,Happiness,Gratitude / Positive Feedback
+2143,Anger,Complaint / Dissatisfaction
+2144,Happiness,Gratitude / Positive Feedback
+2145,Neutral,Neutral Comment
+2146,Happiness,Gratitude / Positive Feedback
+2147,Anger,Complaint / Dissatisfaction
+2148,Happiness,Gratitude / Positive Feedback
+2149,Happiness,Gratitude / Positive Feedback
+2150,Happiness,Gratitude / Positive Feedback
+2151,Neutral,Complaint / Dissatisfaction
+2152,Anger,Complaint / Dissatisfaction
+2153,Happiness,Gratitude / Positive Feedback
+2154,Happiness,Gratitude / Positive Feedback
+2155,Happiness,Gratitude / Positive Feedback
+2156,Happiness,Gratitude / Positive Feedback
+2157,Neutral,Neutral Comment
+2158,Happiness,Gratitude / Positive Feedback
+2159,Neutral,Neutral Comment
+2160,Happiness,Gratitude / Positive Feedback
+2161,Anger,Complaint / Dissatisfaction
+2162,Anger,Complaint / Dissatisfaction
+2163,Happiness,Gratitude / Positive Feedback
+2164,Happiness,Suggestion / Idea
+2165,Happiness,Gratitude / Positive Feedback
+2166,Happiness,Gratitude / Positive Feedback
+2167,Happiness,Gratitude / Positive Feedback
+2168,Neutral,Neutral Comment
+2169,Anger,Complaint / Dissatisfaction
+2170,Happiness,Gratitude / Positive Feedback
+2171,Happiness,Gratitude / Positive Feedback
+2172,Anger,Complaint / Dissatisfaction
+2173,Happiness,Gratitude / Positive Feedback
+2174,Happiness,Gratitude / Positive Feedback
+2175,Anger,Complaint / Dissatisfaction
+2176,Happiness,Gratitude / Positive Feedback
+2177,Anger,Complaint / Dissatisfaction
+2178,Happiness,Gratitude / Positive Feedback
+2179,Happiness,Gratitude / Positive Feedback
+2180,Neutral,Neutral Comment
+2181,Happiness,Gratitude / Positive Feedback
+2182,Happiness,Suggestion / Idea
+2183,Happiness,Gratitude / Positive Feedback
+2184,Sadness,Complaint / Dissatisfaction
+2185,Happiness,Gratitude / Positive Feedback
+2186,Anger,Complaint / Dissatisfaction
+2187,Anger,Complaint / Dissatisfaction
+2188,Neutral,Neutral Comment
+2189,Happiness,Gratitude / Positive Feedback
+2190,Happiness,Gratitude / Positive Feedback
+2191,Anger,Complaint / Dissatisfaction
+2192,Happiness,Gratitude / Positive Feedback
+2193,Happiness,Gratitude / Positive Feedback
+2194,Happiness,Gratitude / Positive Feedback
+2195,Happiness,Gratitude / Positive Feedback
+2196,Happiness,Gratitude / Positive Feedback
+2197,Happiness,Gratitude / Positive Feedback
+2198,Sadness,Complaint / Dissatisfaction
+2199,Happiness,Gratitude / Positive Feedback
+2200,Happiness,Gratitude / Positive Feedback
+2201,Happiness,Gratitude / Positive Feedback
+2202,Anger,Complaint / Dissatisfaction
+2203,Happiness,Suggestion / Idea
+2204,Happiness,Gratitude / Positive Feedback
+2205,Happiness,Gratitude / Positive Feedback
+2206,Anger,Complaint / Dissatisfaction
+2207,Happiness,Gratitude / Positive Feedback
+2208,Happiness,Gratitude / Positive Feedback
+2209,Happiness,Gratitude / Positive Feedback
+2210,Anger,Complaint / Dissatisfaction
+2211,Happiness,Gratitude / Positive Feedback
+2212,Happiness,Gratitude / Positive Feedback
+2213,Anger,Complaint / Dissatisfaction
+2214,Happiness,Gratitude / Positive Feedback
+2215,Happiness,Gratitude / Positive Feedback
+2216,Anger,Complaint / Dissatisfaction
+2217,Happiness,Gratitude / Positive Feedback
+2218,Happiness,Gratitude / Positive Feedback
+2219,Happiness,Gratitude / Positive Feedback
+2220,Happiness,Gratitude / Positive Feedback
+2221,Happiness,Gratitude / Positive Feedback
+2222,Happiness,Gratitude / Positive Feedback
+2223,Happiness,Gratitude / Positive Feedback
+2224,Neutral,Complaint / Dissatisfaction
+2225,Neutral,Neutral Comment
+2226,Happiness,Gratitude / Positive Feedback
+2227,Happiness,Gratitude / Positive Feedback
+2228,Happiness,Gratitude / Positive Feedback
+2229,Neutral,Suggestion / Idea
+2230,Happiness,Gratitude / Positive Feedback
+2231,Anger,Complaint / Dissatisfaction
+2232,Happiness,Gratitude / Positive Feedback
+2233,Happiness,Gratitude / Positive Feedback
+2234,Happiness,Gratitude / Positive Feedback
+2235,Happiness,Gratitude / Positive Feedback
+2236,Anger,Complaint / Dissatisfaction
+2237,Happiness,Gratitude / Positive Feedback
+2238,Neutral,Question / Request for Help
+2239,Happiness,Gratitude / Positive Feedback
+2240,Happiness,Gratitude / Positive Feedback
+2241,Happiness,Gratitude / Positive Feedback
+2242,Happiness,Gratitude / Positive Feedback
+2243,Anger,Complaint / Dissatisfaction
+2244,Anger,Complaint / Dissatisfaction
+2245,Happiness,Gratitude / Positive Feedback
+2246,Happiness,Gratitude / Positive Feedback
+2247,Neutral,Neutral Comment
+2248,Happiness,Gratitude / Positive Feedback
+2249,Happiness,Gratitude / Positive Feedback
+2250,Anger,Complaint / Dissatisfaction
+2251,Happiness,Gratitude / Positive Feedback
+2252,Anger,Complaint / Dissatisfaction
+2253,Happiness,Gratitude / Positive Feedback
+2254,Neutral,Neutral Comment
+2255,Happiness,Gratitude / Positive Feedback
+2256,Happiness,Gratitude / Positive Feedback
+2257,Neutral,Question / Request for Help
+2258,Happiness,Gratitude / Positive Feedback
+2259,Happiness,Gratitude / Positive Feedback
+2260,Happiness,Gratitude / Positive Feedback
+2261,Anger,Complaint / Dissatisfaction
+2262,Anger,Complaint / Dissatisfaction
+2263,Happiness,Gratitude / Positive Feedback
+2264,Happiness,Gratitude / Positive Feedback
+2265,Anger,Complaint / Dissatisfaction
+2266,Happiness,Gratitude / Positive Feedback
+2267,Happiness,Gratitude / Positive Feedback
+2268,Happiness,Gratitude / Positive Feedback
+2269,Neutral,Question / Request for Help
+2270,Neutral,Gratitude / Positive Feedback
+2271,Happiness,Gratitude / Positive Feedback
+2272,Anger,Complaint / Dissatisfaction
+2273,Happiness,Gratitude / Positive Feedback
+2274,Neutral,Question / Request for Help
+2275,Happiness,Gratitude / Positive Feedback
+2276,Anger,Complaint / Dissatisfaction
+2277,Happiness,Gratitude / Positive Feedback
+2278,Anger,Complaint / Dissatisfaction
+2279,Happiness,Gratitude / Positive Feedback
+2280,Happiness,Gratitude / Positive Feedback
+2281,Happiness,Gratitude / Positive Feedback
+2282,Anger,Complaint / Dissatisfaction
+2283,Happiness,Gratitude / Positive Feedback
+2284,Happiness,Gratitude / Positive Feedback
+2285,Happiness,Gratitude / Positive Feedback
+2286,Happiness,Gratitude / Positive Feedback
+2287,Anger,Complaint / Dissatisfaction
+2288,Happiness,Gratitude / Positive Feedback
+2289,Happiness,Gratitude / Positive Feedback
+2290,Happiness,Gratitude / Positive Feedback
+2291,Happiness,Gratitude / Positive Feedback
+2292,Happiness,Gratitude / Positive Feedback
+2293,Happiness,Gratitude / Positive Feedback
+2294,Happiness,Gratitude / Positive Feedback
+2295,Happiness,Gratitude / Positive Feedback
+2296,Happiness,Gratitude / Positive Feedback
+2297,Happiness,Gratitude / Positive Feedback
+2298,Happiness,Gratitude / Positive Feedback
+2299,Happiness,Gratitude / Positive Feedback
+2300,Happiness,Gratitude / Positive Feedback
+2301,Happiness,Gratitude / Positive Feedback
+2302,Neutral,Question / Request for Help
+2303,Neutral,Neutral Comment
+2304,Happiness,Gratitude / Positive Feedback
+2305,Neutral,Neutral Comment
+2306,Anger,Complaint / Dissatisfaction
+2307,Happiness,Gratitude / Positive Feedback
+2308,Happiness,Gratitude / Positive Feedback
+2309,Happiness,Gratitude / Positive Feedback
+2310,Happiness,Gratitude / Positive Feedback
+2311,Happiness,Gratitude / Positive Feedback
+2312,Disgust,Complaint / Dissatisfaction
+2313,Anger,Complaint / Dissatisfaction
+2314,Anger,Complaint / Dissatisfaction
+2315,Happiness,Gratitude / Positive Feedback
+2316,Happiness,Gratitude / Positive Feedback
+2317,Anger,Complaint / Dissatisfaction
+2318,Happiness,Gratitude / Positive Feedback
+2319,Happiness,Gratitude / Positive Feedback
+2320,Anger,Complaint / Dissatisfaction
+2321,Sadness,Complaint / Dissatisfaction
+2322,Happiness,Gratitude / Positive Feedback
+2323,Happiness,Gratitude / Positive Feedback
+2324,Neutral,Neutral Comment
+2325,Anger,Complaint / Dissatisfaction
+2326,Happiness,Gratitude / Positive Feedback
+2327,Happiness,Gratitude / Positive Feedback
+2328,Happiness,Gratitude / Positive Feedback
+2329,Happiness,Gratitude / Positive Feedback
+2330,Anger,Complaint / Dissatisfaction
+2331,Happiness,Gratitude / Positive Feedback
+2332,Anger,Complaint / Dissatisfaction
+2333,Happiness,Gratitude / Positive Feedback
+2334,Happiness,Gratitude / Positive Feedback
+2335,Neutral,Question / Request for Help
+2336,Anger,Complaint / Dissatisfaction
+2337,Neutral,Suggestion / Idea
+2338,Happiness,Gratitude / Positive Feedback
+2339,Happiness,Gratitude / Positive Feedback
+2340,Anger,Complaint / Dissatisfaction
+2341,Anger,Complaint / Dissatisfaction
+2342,Anger,Complaint / Dissatisfaction
+2343,Happiness,Gratitude / Positive Feedback
+2344,Anger,Complaint / Dissatisfaction
+2345,Neutral,Question / Request for Help
+2346,Neutral,Suggestion / Idea
+2347,Happiness,Gratitude / Positive Feedback
+2348,Neutral,Suggestion / Idea
+2349,Happiness,Gratitude / Positive Feedback
+2350,Happiness,Gratitude / Positive Feedback
+2351,Happiness,Gratitude / Positive Feedback
+2352,Happiness,Gratitude / Positive Feedback
+2353,Neutral,Question / Request for Help
+2354,Happiness,Gratitude / Positive Feedback
+2355,Happiness,Gratitude / Positive Feedback
+2356,Happiness,Gratitude / Positive Feedback
+2357,Happiness,Gratitude / Positive Feedback
+2358,Happiness,Gratitude / Positive Feedback
+2359,Happiness,Gratitude / Positive Feedback
+2360,Happiness,Gratitude / Positive Feedback
+2361,Happiness,Gratitude / Positive Feedback
+2362,Anger,Complaint / Dissatisfaction
+2363,Happiness,Gratitude / Positive Feedback
+2364,Happiness,Gratitude / Positive Feedback
+2365,Happiness,Gratitude / Positive Feedback
+2366,Happiness,Gratitude / Positive Feedback
+2367,Happiness,Gratitude / Positive Feedback
+2368,Happiness,Gratitude / Positive Feedback
+2369,Happiness,Gratitude / Positive Feedback
+2370,Anger,Complaint / Dissatisfaction
+2371,Happiness,Gratitude / Positive Feedback
+2372,Anger,Complaint / Dissatisfaction
+2373,Happiness,Gratitude / Positive Feedback
+2374,Anger,Complaint / Dissatisfaction
+2375,Anger,Complaint / Dissatisfaction
+2376,Anger,Complaint / Dissatisfaction
+2377,Neutral,Complaint / Dissatisfaction
+2378,Anger,Complaint / Dissatisfaction
+2379,Happiness,Gratitude / Positive Feedback
+2380,Happiness,Gratitude / Positive Feedback
+2381,Happiness,Gratitude / Positive Feedback
+2382,Happiness,Gratitude / Positive Feedback
+2383,Anger,Complaint / Dissatisfaction
+2384,Happiness,Gratitude / Positive Feedback
+2385,Neutral,Question / Request for Help
+2386,Happiness,Gratitude / Positive Feedback
+2387,Anger,Complaint / Dissatisfaction
+2388,Happiness,Gratitude / Positive Feedback
+2389,Happiness,Gratitude / Positive Feedback
+2390,Happiness,Gratitude / Positive Feedback
+2391,Happiness,Gratitude / Positive Feedback
+2392,Anger,Complaint / Dissatisfaction
+2393,Anger,Complaint / Dissatisfaction
+2394,Happiness,Gratitude / Positive Feedback
+2395,Happiness,Gratitude / Positive Feedback
+2396,Happiness,Gratitude / Positive Feedback
+2397,Neutral,Neutral Comment
+2398,Happiness,Gratitude / Positive Feedback
+2399,Anger,Complaint / Dissatisfaction
+2400,Happiness,Gratitude / Positive Feedback
+2401,Happiness,Gratitude / Positive Feedback
+2402,Neutral,Neutral Comment
+2403,Happiness,Gratitude / Positive Feedback
+2404,Happiness,Gratitude / Positive Feedback
+2405,Happiness,Gratitude / Positive Feedback
+2406,Anger,Complaint / Dissatisfaction
+2407,Anger,Complaint / Dissatisfaction
+2408,Happiness,Gratitude / Positive Feedback
+2409,Happiness,Gratitude / Positive Feedback
+2410,Happiness,Gratitude / Positive Feedback
+2411,Happiness,Gratitude / Positive Feedback
+2412,Happiness,Gratitude / Positive Feedback
+2413,Happiness,Gratitude / Positive Feedback
+2414,Happiness,Gratitude / Positive Feedback
+2415,Happiness,Gratitude / Positive Feedback
+2416,Happiness,Gratitude / Positive Feedback
+2417,Happiness,Gratitude / Positive Feedback
+2418,Happiness,Gratitude / Positive Feedback
+2419,Happiness,Gratitude / Positive Feedback
+2420,Anger,Complaint / Dissatisfaction
+2421,Happiness,Gratitude / Positive Feedback
+2422,Happiness,Gratitude / Positive Feedback
+2423,Anger,Complaint / Dissatisfaction
+2424,Happiness,Gratitude / Positive Feedback
+2425,Neutral,Question / Request for Help
+2426,Happiness,Gratitude / Positive Feedback
+2427,Neutral,Neutral Comment
+2428,Happiness,Gratitude / Positive Feedback
+2429,Neutral,Question / Request for Help
+2430,Anger,Complaint / Dissatisfaction
+2431,Happiness,Gratitude / Positive Feedback
+2432,Happiness,Gratitude / Positive Feedback
+2433,Anger,Complaint / Dissatisfaction
+2434,Happiness,Gratitude / Positive Feedback
+2435,Happiness,Gratitude / Positive Feedback
+2436,Anger,Complaint / Dissatisfaction
+2437,Happiness,Gratitude / Positive Feedback
+2438,Anger,Complaint / Dissatisfaction
+2439,Happiness,Gratitude / Positive Feedback
+2440,Happiness,Gratitude / Positive Feedback
+2441,Happiness,Gratitude / Positive Feedback
+2442,Neutral,Complaint / Dissatisfaction
+2443,Happiness,Gratitude / Positive Feedback
+2444,Happiness,Gratitude / Positive Feedback
+2445,Happiness,Gratitude / Positive Feedback
+2446,Happiness,Gratitude / Positive Feedback
+2447,Happiness,Gratitude / Positive Feedback
+2448,Happiness,Gratitude / Positive Feedback
+2449,Happiness,Gratitude / Positive Feedback
+2450,Happiness,Gratitude / Positive Feedback
+2451,Anger,Complaint / Dissatisfaction
+2452,Anger,Complaint / Dissatisfaction
+2453,Happiness,Gratitude / Positive Feedback
+2454,Happiness,Gratitude / Positive Feedback
+2455,Happiness,Gratitude / Positive Feedback
+2456,Happiness,Gratitude / Positive Feedback
+2457,Happiness,Gratitude / Positive Feedback
+2458,Happiness,Gratitude / Positive Feedback
+2459,Happiness,Gratitude / Positive Feedback
+2460,Sadness,Complaint / Dissatisfaction
+2461,Happiness,Gratitude / Positive Feedback
+2462,Happiness,Gratitude / Positive Feedback
+2463,Anger,Complaint / Dissatisfaction
+2464,Happiness,Gratitude / Positive Feedback
+2465,Happiness,Gratitude / Positive Feedback
+2466,Happiness,Gratitude / Positive Feedback
+2467,Happiness,Gratitude / Positive Feedback
+2468,Happiness,Gratitude / Positive Feedback
+2469,Anger,Complaint / Dissatisfaction
+2470,Happiness,Gratitude / Positive Feedback
+2471,Neutral,Suggestion / Idea
+2472,Happiness,Gratitude / Positive Feedback
+2473,Happiness,Gratitude / Positive Feedback
+2474,Neutral,Question / Request for Help
+2475,Happiness,Gratitude / Positive Feedback
+2476,Neutral,Neutral Comment
+2477,Happiness,Gratitude / Positive Feedback
+2478,Happiness,Gratitude / Positive Feedback
+2479,Fear,Complaint / Dissatisfaction
+2480,Happiness,Gratitude / Positive Feedback
+2481,Happiness,Gratitude / Positive Feedback
+2482,Happiness,Gratitude / Positive Feedback
+2483,Disgust,Complaint / Dissatisfaction
+2484,Happiness,Gratitude / Positive Feedback
+2485,Anger,Complaint / Dissatisfaction
+2486,Happiness,Gratitude / Positive Feedback
+2487,Happiness,Gratitude / Positive Feedback
+2488,Happiness,Gratitude / Positive Feedback
+2489,Happiness,Gratitude / Positive Feedback
+2490,Anger,Complaint / Dissatisfaction
+2491,Happiness,Gratitude / Positive Feedback
+2492,Anger,Complaint / Dissatisfaction
+2493,Happiness,Gratitude / Positive Feedback
+2494,Happiness,Gratitude / Positive Feedback
+2495,Happiness,Gratitude / Positive Feedback
+2496,Neutral,Question / Request for Help
+2497,Happiness,Gratitude / Positive Feedback
+2498,Happiness,Gratitude / Positive Feedback
+2499,Happiness,Gratitude / Positive Feedback
+2500,Anger,Complaint / Dissatisfaction
+2501,Disgust,Complaint / Dissatisfaction
+2502,Happiness,Gratitude / Positive Feedback
+2503,Happiness,Gratitude / Positive Feedback
+2504,Happiness,Suggestion / Idea
+2505,Anger,Complaint / Dissatisfaction
+2506,Happiness,Gratitude / Positive Feedback
+2507,Anger,Complaint / Dissatisfaction
+2508,Happiness,Gratitude / Positive Feedback
+2509,Happiness,Gratitude / Positive Feedback
+2510,Happiness,Gratitude / Positive Feedback
+2511,Happiness,Gratitude / Positive Feedback
+2512,Anger,Complaint / Dissatisfaction
+2513,Anger,Complaint / Dissatisfaction
+2514,Happiness,Gratitude / Positive Feedback
+2515,Anger,Complaint / Dissatisfaction
+2516,Happiness,Gratitude / Positive Feedback
+2517,Anger,Complaint / Dissatisfaction
+2518,Happiness,Gratitude / Positive Feedback
+2519,Happiness,Gratitude / Positive Feedback
+2520,Happiness,Gratitude / Positive Feedback
+2521,Happiness,Gratitude / Positive Feedback
+2522,Anger,Complaint / Dissatisfaction
+2523,Happiness,Suggestion / Idea
+2524,Happiness,Gratitude / Positive Feedback
+2525,Neutral,Suggestion / Idea
+2526,Happiness,Gratitude / Positive Feedback
+2527,Happiness,Gratitude / Positive Feedback
+2528,Happiness,Gratitude / Positive Feedback
+2529,Sadness,Complaint / Dissatisfaction
+2530,Happiness,Gratitude / Positive Feedback
+2531,Happiness,Gratitude / Positive Feedback
+2532,Happiness,Gratitude / Positive Feedback
+2533,Happiness,Gratitude / Positive Feedback
+2534,Neutral,Complaint / Dissatisfaction
+2535,Happiness,Gratitude / Positive Feedback
+2536,Happiness,Gratitude / Positive Feedback
+2537,Anger,Complaint / Dissatisfaction
+2538,Neutral,Neutral Comment
+2539,Happiness,Gratitude / Positive Feedback
+2540,Happiness,Gratitude / Positive Feedback
+2541,Happiness,Gratitude / Positive Feedback
+2542,Anger,Complaint / Dissatisfaction
+2543,Neutral,Suggestion / Idea
+2544,Anger,Complaint / Dissatisfaction
+2545,Happiness,Gratitude / Positive Feedback
+2546,Happiness,Gratitude / Positive Feedback
+2547,Happiness,Gratitude / Positive Feedback
+2548,Happiness,Gratitude / Positive Feedback
+2549,Anger,Complaint / Dissatisfaction
+2550,Happiness,Gratitude / Positive Feedback
+2551,Happiness,Gratitude / Positive Feedback
+2552,Happiness,Gratitude / Positive Feedback
+2553,Happiness,Gratitude / Positive Feedback
+2554,Happiness,Gratitude / Positive Feedback
+2555,Neutral,Question / Request for Help
+2556,Happiness,Gratitude / Positive Feedback
+2557,Happiness,Gratitude / Positive Feedback
+2558,Happiness,Gratitude / Positive Feedback
+2559,Neutral,Question / Request for Help
+2560,Neutral,Question / Request for Help
+2561,Happiness,Gratitude / Positive Feedback
+2562,Anger,Complaint / Dissatisfaction
+2563,Anger,Complaint / Dissatisfaction
+2564,Happiness,Gratitude / Positive Feedback
+2565,Anger,Complaint / Dissatisfaction
+2566,Happiness,Gratitude / Positive Feedback
+2567,Neutral,Neutral Comment
+2568,Happiness,Gratitude / Positive Feedback
+2569,Anger,Complaint / Dissatisfaction
+2570,Happiness,Gratitude / Positive Feedback
+2571,Happiness,Gratitude / Positive Feedback
+2572,Happiness,Gratitude / Positive Feedback
+2573,Happiness,Gratitude / Positive Feedback
+2574,Happiness,Gratitude / Positive Feedback
+2575,Happiness,Gratitude / Positive Feedback
+2576,Anger,Complaint / Dissatisfaction
+2577,Happiness,Gratitude / Positive Feedback
+2578,Anger,Complaint / Dissatisfaction
+2579,Happiness,Gratitude / Positive Feedback
+2580,Anger,Complaint / Dissatisfaction
+2581,Neutral,Neutral Comment
+2582,Happiness,Gratitude / Positive Feedback
+2583,Happiness,Gratitude / Positive Feedback
+2584,Happiness,Gratitude / Positive Feedback
+2585,Happiness,Gratitude / Positive Feedback
+2586,Happiness,Gratitude / Positive Feedback
+2587,Neutral,Neutral Comment
+2588,Happiness,Gratitude / Positive Feedback
+2589,Neutral,Suggestion / Idea
+2590,Happiness,Gratitude / Positive Feedback
+2591,Happiness,Gratitude / Positive Feedback
+2592,Happiness,Gratitude / Positive Feedback
+2593,Happiness,Gratitude / Positive Feedback
+2594,Happiness,Gratitude / Positive Feedback
+2595,Happiness,Gratitude / Positive Feedback
+2596,Anger,Complaint / Dissatisfaction
+2597,Happiness,Gratitude / Positive Feedback
+2598,Happiness,Gratitude / Positive Feedback
+2599,Happiness,Gratitude / Positive Feedback
+2600,Sadness,Question / Request for Help
+2601,Happiness,Gratitude / Positive Feedback
+2602,Happiness,Gratitude / Positive Feedback
+2603,Happiness,Gratitude / Positive Feedback
+2604,Happiness,Gratitude / Positive Feedback
+2605,Happiness,Gratitude / Positive Feedback
+2606,Anger,Complaint / Dissatisfaction
+2607,Happiness,Neutral Comment
+2608,Happiness,Gratitude / Positive Feedback
+2609,Anger,Complaint / Dissatisfaction
+2610,Happiness,Gratitude / Positive Feedback
+2611,Happiness,Gratitude / Positive Feedback
+2612,Happiness,Gratitude / Positive Feedback
+2613,Happiness,Gratitude / Positive Feedback
+2614,Happiness,Gratitude / Positive Feedback
+2615,Anger,Complaint / Dissatisfaction
+2616,Happiness,Gratitude / Positive Feedback
+2617,Happiness,Gratitude / Positive Feedback
+2618,Anger,Complaint / Dissatisfaction
+2619,Anger,Complaint / Dissatisfaction
+2620,Neutral,Neutral Comment
+2621,Happiness,Gratitude / Positive Feedback
+2622,Happiness,Gratitude / Positive Feedback
+2623,Anger,Complaint / Dissatisfaction
+2624,Neutral,Question / Request for Help
+2625,Happiness,Gratitude / Positive Feedback
+2626,Anger,Complaint / Dissatisfaction
+2627,Neutral,Neutral Comment
+2628,Happiness,Gratitude / Positive Feedback
+2629,Neutral,Question / Request for Help
+2630,Happiness,Gratitude / Positive Feedback
+2631,Happiness,Gratitude / Positive Feedback
+2632,Happiness,Gratitude / Positive Feedback
+2633,Happiness,Gratitude / Positive Feedback
+2634,Anger,Complaint / Dissatisfaction
+2635,Anger,Complaint / Dissatisfaction
+2636,Neutral,Question / Request for Help
+2637,Happiness,Gratitude / Positive Feedback
+2638,Anger,Complaint / Dissatisfaction
+2639,Anger,Complaint / Dissatisfaction
+2640,Anger,Complaint / Dissatisfaction
+2641,Happiness,Gratitude / Positive Feedback
+2642,Happiness,Gratitude / Positive Feedback
+2643,Happiness,Gratitude / Positive Feedback
+2644,Happiness,Gratitude / Positive Feedback
+2645,Happiness,Gratitude / Positive Feedback
+2646,Anger,Complaint / Dissatisfaction
+2647,Happiness,Gratitude / Positive Feedback
+2648,Happiness,Gratitude / Positive Feedback
+2649,Neutral,Neutral Comment
+2650,Disgust,Complaint / Dissatisfaction
+2651,Happiness,Gratitude / Positive Feedback
+2652,Happiness,Gratitude / Positive Feedback
+2653,Happiness,Gratitude / Positive Feedback
+2654,Happiness,Gratitude / Positive Feedback
+2655,Sadness,Question / Request for Help
+2656,Happiness,Gratitude / Positive Feedback
+2657,Happiness,Gratitude / Positive Feedback
+2658,Happiness,Gratitude / Positive Feedback
+2659,Anger,Complaint / Dissatisfaction
+2660,Happiness,Gratitude / Positive Feedback
+2661,Sadness,Complaint / Dissatisfaction
+2662,Neutral,Question / Request for Help
+2663,Anger,Complaint / Dissatisfaction
+2664,Happiness,Gratitude / Positive Feedback
+2665,Happiness,Gratitude / Positive Feedback
+2666,Happiness,Gratitude / Positive Feedback
+2667,Happiness,Gratitude / Positive Feedback
+2668,Happiness,Gratitude / Positive Feedback
+2669,Anger,Complaint / Dissatisfaction
+2670,Happiness,Gratitude / Positive Feedback
+2671,Happiness,Gratitude / Positive Feedback
+2672,Anger,Complaint / Dissatisfaction
+2673,Anger,Complaint / Dissatisfaction
+2674,Neutral,Question / Request for Help
+2675,Happiness,Gratitude / Positive Feedback
+2676,Happiness,Gratitude / Positive Feedback
+2677,Happiness,Gratitude / Positive Feedback
+2678,Happiness,Gratitude / Positive Feedback
+2679,Happiness,Gratitude / Positive Feedback
+2680,Neutral,Question / Request for Help
+2681,Happiness,Gratitude / Positive Feedback
+2682,Anger,Complaint / Dissatisfaction
+2683,Happiness,Gratitude / Positive Feedback
+2684,Happiness,Gratitude / Positive Feedback
+2685,Anger,Complaint / Dissatisfaction
+2686,Happiness,Gratitude / Positive Feedback
+2687,Anger,Complaint / Dissatisfaction
+2688,Happiness,Gratitude / Positive Feedback
+2689,Happiness,Gratitude / Positive Feedback
+2690,Happiness,Gratitude / Positive Feedback
+2691,Happiness,Gratitude / Positive Feedback
+2692,Happiness,Gratitude / Positive Feedback
+2693,Anger,Complaint / Dissatisfaction
+2694,Happiness,Gratitude / Positive Feedback
+2695,Anger,Complaint / Dissatisfaction
+2696,Happiness,Gratitude / Positive Feedback
+2697,Disgust,Complaint / Dissatisfaction
+2698,Neutral,Neutral Comment
+2699,Happiness,Gratitude / Positive Feedback
+2700,Happiness,Gratitude / Positive Feedback
+2701,Happiness,Gratitude / Positive Feedback
+2702,Happiness,Gratitude / Positive Feedback
+2703,Anger,Complaint / Dissatisfaction
+2704,Happiness,Gratitude / Positive Feedback
+2705,Anger,Complaint / Dissatisfaction
+2706,Happiness,Gratitude / Positive Feedback
+2707,Happiness,Gratitude / Positive Feedback
+2708,Happiness,Gratitude / Positive Feedback
+2709,Happiness,Gratitude / Positive Feedback
+2710,Happiness,Gratitude / Positive Feedback
+2711,Anger,Complaint / Dissatisfaction
+2712,Anger,Complaint / Dissatisfaction
+2713,Happiness,Suggestion / Idea
+2714,Happiness,Gratitude / Positive Feedback
+2715,Neutral,Neutral Comment
+2716,Happiness,Gratitude / Positive Feedback
+2717,Happiness,Gratitude / Positive Feedback
+2718,Happiness,Gratitude / Positive Feedback
+2719,Happiness,Gratitude / Positive Feedback
+2720,Anger,Complaint / Dissatisfaction
+2721,Anger,Complaint / Dissatisfaction
+2722,Neutral,Neutral Comment
+2723,Happiness,Gratitude / Positive Feedback
+2724,Anger,Complaint / Dissatisfaction
+2725,Happiness,Gratitude / Positive Feedback
+2726,Happiness,Gratitude / Positive Feedback
+2727,Happiness,Gratitude / Positive Feedback
+2728,Happiness,Gratitude / Positive Feedback
+2729,Anger,Complaint / Dissatisfaction
+2730,Happiness,Gratitude / Positive Feedback
+2731,Happiness,Gratitude / Positive Feedback
+2732,Anger,Complaint / Dissatisfaction
+2733,Happiness,Gratitude / Positive Feedback
+2734,Happiness,Gratitude / Positive Feedback
+2735,Happiness,Gratitude / Positive Feedback
+2736,Anger,Complaint / Dissatisfaction
+2737,Happiness,Gratitude / Positive Feedback
+2738,Anger,Complaint / Dissatisfaction
+2739,Happiness,Gratitude / Positive Feedback
+2740,Neutral,Question / Request for Help
+2741,Happiness,Gratitude / Positive Feedback
+2742,Neutral,Question / Request for Help
+2743,Happiness,Gratitude / Positive Feedback
+2744,Happiness,Gratitude / Positive Feedback
+2745,Anger,Complaint / Dissatisfaction
+2746,Anger,Complaint / Dissatisfaction
+2747,Happiness,Gratitude / Positive Feedback
+2748,Happiness,Gratitude / Positive Feedback
+2749,Happiness,Gratitude / Positive Feedback
+2750,Happiness,Gratitude / Positive Feedback
+2751,Neutral,Question / Request for Help
+2752,Happiness,Gratitude / Positive Feedback
+2753,Neutral,Question / Request for Help
+2754,Happiness,Gratitude / Positive Feedback
+2755,Happiness,Gratitude / Positive Feedback
+2756,Happiness,Gratitude / Positive Feedback
+2757,Happiness,Gratitude / Positive Feedback
+2758,Happiness,Gratitude / Positive Feedback
+2759,Happiness,Gratitude / Positive Feedback
+2760,Sadness,Complaint / Dissatisfaction
+2761,Happiness,Gratitude / Positive Feedback
+2762,Anger,Complaint / Dissatisfaction
+2763,Happiness,Gratitude / Positive Feedback
+2764,Anger,Complaint / Dissatisfaction
+2765,Anger,Complaint / Dissatisfaction
+2766,Happiness,Gratitude / Positive Feedback
+2767,Neutral,Neutral Comment
+2768,Happiness,Gratitude / Positive Feedback
+2769,Happiness,Gratitude / Positive Feedback
+2770,Happiness,Gratitude / Positive Feedback
+2771,Happiness,Gratitude / Positive Feedback
+2772,Happiness,Gratitude / Positive Feedback
+2773,Happiness,Gratitude / Positive Feedback
+2774,Happiness,Gratitude / Positive Feedback
+2775,Happiness,Gratitude / Positive Feedback
+2776,Happiness,Gratitude / Positive Feedback
+2777,Anger,Complaint / Dissatisfaction
+2778,Happiness,Gratitude / Positive Feedback
+2779,Happiness,Gratitude / Positive Feedback
+2780,Anger,Complaint / Dissatisfaction
+2781,Neutral,Neutral Comment
+2782,Happiness,Gratitude / Positive Feedback
+2783,Anger,Complaint / Dissatisfaction
+2784,Happiness,Gratitude / Positive Feedback
+2785,Happiness,Gratitude / Positive Feedback
+2786,Happiness,Gratitude / Positive Feedback
+2787,Neutral,Neutral Comment
+2788,Happiness,Gratitude / Positive Feedback
+2789,Happiness,Gratitude / Positive Feedback
+2790,Happiness,Gratitude / Positive Feedback
+2791,Happiness,Gratitude / Positive Feedback
+2792,Happiness,Gratitude / Positive Feedback
+2793,Happiness,Gratitude / Positive Feedback
+2794,Happiness,Gratitude / Positive Feedback
+2795,Happiness,Gratitude / Positive Feedback
+2796,Happiness,Gratitude / Positive Feedback
+2797,Happiness,Gratitude / Positive Feedback
+2798,Anger,Complaint / Dissatisfaction
+2799,Anger,Complaint / Dissatisfaction
+2800,Anger,Complaint / Dissatisfaction
+2801,Happiness,Gratitude / Positive Feedback
+2802,Happiness,Gratitude / Positive Feedback
+2803,Anger,Complaint / Dissatisfaction
+2804,Happiness,Gratitude / Positive Feedback
+2805,Happiness,Gratitude / Positive Feedback
+2806,Happiness,Gratitude / Positive Feedback
+2807,Anger,Complaint / Dissatisfaction
+2808,Happiness,Gratitude / Positive Feedback
+2809,Happiness,Gratitude / Positive Feedback
+2810,Anger,Complaint / Dissatisfaction
+2811,Happiness,Gratitude / Positive Feedback
+2812,Happiness,Gratitude / Positive Feedback
+2813,Happiness,Gratitude / Positive Feedback
+2814,Happiness,Gratitude / Positive Feedback
+2815,Anger,Complaint / Dissatisfaction
+2816,Disgust,Complaint / Dissatisfaction
+2817,Neutral,Neutral Comment
+2818,Anger,Complaint / Dissatisfaction
+2819,Happiness,Gratitude / Positive Feedback
+2820,Happiness,Gratitude / Positive Feedback
+2821,Happiness,Gratitude / Positive Feedback
+2822,Happiness,Gratitude / Positive Feedback
+2823,Happiness,Gratitude / Positive Feedback
+2824,Anger,Complaint / Dissatisfaction
+2825,Happiness,Gratitude / Positive Feedback
+2826,Happiness,Gratitude / Positive Feedback
+2827,Happiness,Gratitude / Positive Feedback
+2828,Neutral,Question / Request for Help
+2829,Happiness,Gratitude / Positive Feedback
+2830,Neutral,Suggestion / Idea
+2831,Anger,Complaint / Dissatisfaction
+2832,Anger,Complaint / Dissatisfaction
+2833,Anger,Complaint / Dissatisfaction
+2834,Happiness,Gratitude / Positive Feedback
+2835,Anger,Complaint / Dissatisfaction
+2836,Neutral,Question / Request for Help
+2837,Neutral,Neutral Comment
+2838,Happiness,Gratitude / Positive Feedback
+2839,Happiness,Gratitude / Positive Feedback
+2840,Happiness,Gratitude / Positive Feedback
+2841,Happiness,Gratitude / Positive Feedback
+2842,Neutral,Neutral Comment
+2843,Anger,Complaint / Dissatisfaction
+2844,Anger,Complaint / Dissatisfaction
+2845,Happiness,Gratitude / Positive Feedback
+2846,Happiness,Gratitude / Positive Feedback
+2847,Anger,Complaint / Dissatisfaction
+2848,Happiness,Gratitude / Positive Feedback
+2849,Happiness,Gratitude / Positive Feedback
+2850,Happiness,Gratitude / Positive Feedback
+2851,Happiness,Gratitude / Positive Feedback
+2852,Happiness,Gratitude / Positive Feedback
+2853,Happiness,Gratitude / Positive Feedback
+2854,Happiness,Gratitude / Positive Feedback
+2855,Happiness,Gratitude / Positive Feedback
+2856,Happiness,Gratitude / Positive Feedback
+2857,Happiness,Suggestion / Idea
+2858,Happiness,Gratitude / Positive Feedback
+2859,Happiness,Gratitude / Positive Feedback
+2860,Neutral,Question / Request for Help
+2861,Happiness,Gratitude / Positive Feedback
+2862,Happiness,Suggestion / Idea
+2863,Happiness,Gratitude / Positive Feedback
+2864,Anger,Complaint / Dissatisfaction
+2865,Happiness,Suggestion / Idea
+2866,Happiness,Gratitude / Positive Feedback
+2867,Anger,Complaint / Dissatisfaction
+2868,Happiness,Gratitude / Positive Feedback
+2869,Happiness,Gratitude / Positive Feedback
+2870,Neutral,Neutral Comment
+2871,Anger,Complaint / Dissatisfaction
+2872,Happiness,Gratitude / Positive Feedback
+2873,Happiness,Gratitude / Positive Feedback
+2874,Neutral,Neutral Comment
+2875,Happiness,Gratitude / Positive Feedback
+2876,Happiness,Gratitude / Positive Feedback
+2877,Happiness,Gratitude / Positive Feedback
+2878,Happiness,Gratitude / Positive Feedback
+2879,Happiness,Gratitude / Positive Feedback
+2880,Happiness,Gratitude / Positive Feedback
+2881,Happiness,Gratitude / Positive Feedback
+2882,Happiness,Gratitude / Positive Feedback
+2883,Anger,Complaint / Dissatisfaction
+2884,Happiness,Gratitude / Positive Feedback
+2885,Anger,Complaint / Dissatisfaction
+2886,Anger,Complaint / Dissatisfaction
+2887,Happiness,Gratitude / Positive Feedback
+2888,Anger,Complaint / Dissatisfaction
+2889,Anger,Complaint / Dissatisfaction
+2890,Happiness,Gratitude / Positive Feedback
+2891,Anger,Complaint / Dissatisfaction
+2892,Anger,Complaint / Dissatisfaction
+2893,Neutral,Question / Request for Help
+2894,Happiness,Gratitude / Positive Feedback
+2895,Happiness,Gratitude / Positive Feedback
+2896,Happiness,Gratitude / Positive Feedback
+2897,Happiness,Gratitude / Positive Feedback
+2898,Anger,Complaint / Dissatisfaction
+2899,Anger,Complaint / Dissatisfaction
+2900,Happiness,Suggestion / Idea
+2901,Happiness,Gratitude / Positive Feedback
+2902,Happiness,Gratitude / Positive Feedback
+2903,Happiness,Gratitude / Positive Feedback
+2904,Neutral,Question / Request for Help
+2905,Happiness,Gratitude / Positive Feedback
+2906,Happiness,Gratitude / Positive Feedback
+2907,Happiness,Gratitude / Positive Feedback
+2908,Happiness,Gratitude / Positive Feedback
+2909,Happiness,Gratitude / Positive Feedback
+2910,Happiness,Gratitude / Positive Feedback
+2911,Anger,Complaint / Dissatisfaction
+2912,Anger,Complaint / Dissatisfaction
+2913,Neutral,Neutral Comment
+2914,Happiness,Gratitude / Positive Feedback
+2915,Neutral,Neutral Comment
+2916,Anger,Complaint / Dissatisfaction
+2917,Happiness,Gratitude / Positive Feedback
+2918,Anger,Complaint / Dissatisfaction
+2919,Happiness,Gratitude / Positive Feedback
+2920,Neutral,Question / Request for Help
+2921,Happiness,Gratitude / Positive Feedback
+2922,Anger,Complaint / Dissatisfaction
+2923,Happiness,Gratitude / Positive Feedback
+2924,Happiness,Gratitude / Positive Feedback
+2925,Happiness,Gratitude / Positive Feedback
+2926,Happiness,Gratitude / Positive Feedback
+2927,Neutral,Neutral Comment
+2928,Happiness,Gratitude / Positive Feedback
+2929,Anger,Complaint / Dissatisfaction
+2930,Happiness,Gratitude / Positive Feedback
+2931,Neutral,Question / Request for Help
+2932,Happiness,Gratitude / Positive Feedback
+2933,Happiness,Gratitude / Positive Feedback
+2934,Anger,Complaint / Dissatisfaction
+2935,Happiness,Gratitude / Positive Feedback
+2936,Happiness,Gratitude / Positive Feedback
+2937,Happiness,Gratitude / Positive Feedback
+2938,Happiness,Gratitude / Positive Feedback
+2939,Neutral,Question / Request for Help
+2940,Happiness,Gratitude / Positive Feedback
+2941,Neutral,Question / Request for Help
+2942,Happiness,Gratitude / Positive Feedback
+2943,Happiness,Gratitude / Positive Feedback
+2944,Anger,Complaint / Dissatisfaction
+2945,Happiness,Gratitude / Positive Feedback
+2946,Neutral,Neutral Comment
+2947,Happiness,Gratitude / Positive Feedback
+2948,Neutral,Neutral Comment
+2949,Happiness,Gratitude / Positive Feedback
+2950,Anger,Complaint / Dissatisfaction
+2951,Happiness,Gratitude / Positive Feedback
+2952,Happiness,Gratitude / Positive Feedback
+2953,Happiness,Gratitude / Positive Feedback
+2954,Happiness,Gratitude / Positive Feedback
+2955,Happiness,Gratitude / Positive Feedback
+2956,Happiness,Gratitude / Positive Feedback
+2957,Anger,Complaint / Dissatisfaction
+2958,Happiness,Gratitude / Positive Feedback
+2959,Anger,Complaint / Dissatisfaction
+2960,Happiness,Gratitude / Positive Feedback
+2961,Anger,Complaint / Dissatisfaction
+2962,Anger,Complaint / Dissatisfaction
+2963,Neutral,Question / Request for Help
+2964,Neutral,Question / Request for Help
+2965,Neutral,Neutral Comment
+2966,Happiness,Gratitude / Positive Feedback
+2967,Happiness,Gratitude / Positive Feedback
+2968,Anger,Complaint / Dissatisfaction
+2969,Happiness,Gratitude / Positive Feedback
+2970,Happiness,Gratitude / Positive Feedback
+2971,Happiness,Gratitude / Positive Feedback
+2972,Happiness,Gratitude / Positive Feedback
+2973,Happiness,Gratitude / Positive Feedback
+2974,Happiness,Gratitude / Positive Feedback
+2975,Neutral,Neutral Comment
+2976,Happiness,Gratitude / Positive Feedback
+2977,Happiness,Gratitude / Positive Feedback
+2978,Happiness,Gratitude / Positive Feedback
+2979,Happiness,Gratitude / Positive Feedback
+2980,Happiness,Gratitude / Positive Feedback
+2981,Anger,Complaint / Dissatisfaction
+2982,Happiness,Gratitude / Positive Feedback
+2983,Happiness,Gratitude / Positive Feedback
+2984,Neutral,Neutral Comment
+2985,Happiness,Gratitude / Positive Feedback
+2986,Happiness,Gratitude / Positive Feedback
+2987,Happiness,Gratitude / Positive Feedback
+2988,Happiness,Gratitude / Positive Feedback
+2989,Happiness,Gratitude / Positive Feedback
+2990,Happiness,Gratitude / Positive Feedback
+2991,Anger,Complaint / Dissatisfaction
+2992,Anger,Complaint / Dissatisfaction
+2993,Neutral,Neutral Comment
+2994,Sadness,Question / Request for Help
+2995,Happiness,Gratitude / Positive Feedback
+2996,Anger,Complaint / Dissatisfaction
+2997,Happiness,Gratitude / Positive Feedback
+2998,Anger,Complaint / Dissatisfaction
+2999,Happiness,Gratitude / Positive Feedback
+3000,Neutral,Question / Request for Help
+3001,Happiness,Gratitude / Positive Feedback
+3002,Neutral,Neutral Comment
+3003,Happiness,Gratitude / Positive Feedback
+3004,Happiness,Gratitude / Positive Feedback
+3005,Happiness,Gratitude / Positive Feedback
+3006,Happiness,Gratitude / Positive Feedback
+3007,Sadness,Complaint / Dissatisfaction
+3008,Neutral,Question / Request for Help
+3009,Neutral,Question / Request for Help
+3010,Neutral,Suggestion / Idea
+3011,Anger,Complaint / Dissatisfaction
+3012,Happiness,Gratitude / Positive Feedback
+3013,Happiness,Gratitude / Positive Feedback
+3014,Happiness,Gratitude / Positive Feedback
+3015,Happiness,Gratitude / Positive Feedback
+3016,Happiness,Gratitude / Positive Feedback
+3017,Happiness,Gratitude / Positive Feedback
+3018,Happiness,Gratitude / Positive Feedback
+3019,Happiness,Gratitude / Positive Feedback
+3020,Happiness,Gratitude / Positive Feedback
+3021,Happiness,Gratitude / Positive Feedback
+3022,Happiness,Gratitude / Positive Feedback
+3023,Happiness,Gratitude / Positive Feedback
+3024,Happiness,Gratitude / Positive Feedback
+3025,Happiness,Gratitude / Positive Feedback
+3026,Happiness,Gratitude / Positive Feedback
+3027,Happiness,Gratitude / Positive Feedback
+3028,Anger,Complaint / Dissatisfaction
+3029,Happiness,Gratitude / Positive Feedback
+3030,Happiness,Gratitude / Positive Feedback
+3031,Happiness,Gratitude / Positive Feedback
+3032,Happiness,Gratitude / Positive Feedback
+3033,Anger,Complaint / Dissatisfaction
+3034,Anger,Complaint / Dissatisfaction
+3035,Neutral,Neutral Comment
+3036,Neutral,Question / Request for Help
+3037,Happiness,Gratitude / Positive Feedback
+3038,Anger,Complaint / Dissatisfaction
+3039,Happiness,Gratitude / Positive Feedback
+3040,Happiness,Gratitude / Positive Feedback
+3041,Happiness,Gratitude / Positive Feedback
+3042,Anger,Complaint / Dissatisfaction
+3043,Fear,Question / Request for Help
+3044,Anger,Complaint / Dissatisfaction
+3045,Anger,Complaint / Dissatisfaction
+3046,Anger,Complaint / Dissatisfaction
+3047,Anger,Complaint / Dissatisfaction
+3048,Anger,Complaint / Dissatisfaction
+3049,Happiness,Gratitude / Positive Feedback
+3050,Happiness,Gratitude / Positive Feedback
+3051,Neutral,Gratitude / Positive Feedback
+3052,Happiness,Gratitude / Positive Feedback
+3053,Neutral,Neutral Comment
+3054,Happiness,Gratitude / Positive Feedback
+3055,Neutral,Neutral Comment
+3056,Neutral,Question / Request for Help
+3057,Happiness,Gratitude / Positive Feedback
+3058,Happiness,Gratitude / Positive Feedback
+3059,Happiness,Gratitude / Positive Feedback
+3060,Happiness,Suggestion / Idea
+3061,Happiness,Gratitude / Positive Feedback
+3062,Happiness,Gratitude / Positive Feedback
+3063,Anger,Complaint / Dissatisfaction
+3064,Happiness,Gratitude / Positive Feedback
+3065,Happiness,Gratitude / Positive Feedback
+3066,Happiness,Gratitude / Positive Feedback
+3067,Happiness,Gratitude / Positive Feedback
+3068,Happiness,Gratitude / Positive Feedback
+3069,Happiness,Gratitude / Positive Feedback
+3070,Happiness,Gratitude / Positive Feedback
+3071,Happiness,Gratitude / Positive Feedback
+3072,Neutral,Neutral Comment
+3073,Happiness,Gratitude / Positive Feedback
+3074,Happiness,Gratitude / Positive Feedback
+3075,Happiness,Gratitude / Positive Feedback
+3076,Anger,Complaint / Dissatisfaction
+3077,Happiness,Gratitude / Positive Feedback
+3078,Happiness,Gratitude / Positive Feedback
+3079,Happiness,Gratitude / Positive Feedback
+3080,Happiness,Gratitude / Positive Feedback
+3081,Happiness,Gratitude / Positive Feedback
+3082,Happiness,Gratitude / Positive Feedback
+3083,Happiness,Gratitude / Positive Feedback
+3084,Happiness,Gratitude / Positive Feedback
+3085,Happiness,Gratitude / Positive Feedback
+3086,Anger,Complaint / Dissatisfaction
+3087,Happiness,Gratitude / Positive Feedback
+3088,Happiness,Gratitude / Positive Feedback
+3089,Anger,Complaint / Dissatisfaction
+3090,Neutral,Question / Request for Help
+3091,Anger,Complaint / Dissatisfaction
+3092,Neutral,Neutral Comment
+3093,Happiness,Gratitude / Positive Feedback
+3094,Happiness,Gratitude / Positive Feedback
+3095,Neutral,Neutral Comment
+3096,Happiness,Gratitude / Positive Feedback
+3097,Anger,Complaint / Dissatisfaction
+3098,Happiness,Gratitude / Positive Feedback
+3099,Anger,Complaint / Dissatisfaction
+3100,Happiness,Suggestion / Idea
+3101,Happiness,Gratitude / Positive Feedback
+3102,Happiness,Gratitude / Positive Feedback
+3103,Sadness,Complaint / Dissatisfaction
+3104,Happiness,Gratitude / Positive Feedback
+3105,Happiness,Gratitude / Positive Feedback
+3106,Happiness,Gratitude / Positive Feedback
+3107,Anger,Complaint / Dissatisfaction
+3108,Anger,Complaint / Dissatisfaction
+3109,Happiness,Gratitude / Positive Feedback
+3110,Happiness,Gratitude / Positive Feedback
+3111,Happiness,Gratitude / Positive Feedback
+3112,Anger,Complaint / Dissatisfaction
+3113,Anger,Complaint / Dissatisfaction
+3114,Happiness,Gratitude / Positive Feedback
+3115,Happiness,Gratitude / Positive Feedback
+3116,Happiness,Gratitude / Positive Feedback
+3117,Sadness,Gratitude / Positive Feedback
+3118,Happiness,Gratitude / Positive Feedback
+3119,Happiness,Gratitude / Positive Feedback
+3120,Happiness,Gratitude / Positive Feedback
+3121,Happiness,Gratitude / Positive Feedback
+3122,Happiness,Gratitude / Positive Feedback
+3123,Happiness,Gratitude / Positive Feedback
+3124,Happiness,Gratitude / Positive Feedback
+3125,Happiness,Gratitude / Positive Feedback
+3126,Happiness,Gratitude / Positive Feedback
+3127,Neutral,Neutral Comment
+3128,Anger,Complaint / Dissatisfaction
+3129,Happiness,Gratitude / Positive Feedback
+3130,Happiness,Gratitude / Positive Feedback
+3131,Happiness,Suggestion / Idea
+3132,Happiness,Gratitude / Positive Feedback
+3133,Anger,Complaint / Dissatisfaction
+3134,Happiness,Gratitude / Positive Feedback
+3135,Anger,Complaint / Dissatisfaction
+3136,Anger,Complaint / Dissatisfaction
+3137,Anger,Complaint / Dissatisfaction
+3138,Happiness,Gratitude / Positive Feedback
+3139,Happiness,Gratitude / Positive Feedback
+3140,Happiness,Suggestion / Idea
+3141,Happiness,Gratitude / Positive Feedback
+3142,Happiness,Gratitude / Positive Feedback
+3143,Disgust,Complaint / Dissatisfaction
+3144,Happiness,Gratitude / Positive Feedback
+3145,Anger,Complaint / Dissatisfaction
+3146,Happiness,Gratitude / Positive Feedback
+3147,Happiness,Gratitude / Positive Feedback
+3148,Happiness,Gratitude / Positive Feedback
+3149,Happiness,Gratitude / Positive Feedback
+3150,Happiness,Gratitude / Positive Feedback
+3151,Anger,Complaint / Dissatisfaction
+3152,Anger,Complaint / Dissatisfaction
+3153,Anger,Complaint / Dissatisfaction
+3154,Happiness,Gratitude / Positive Feedback
+3155,Happiness,Gratitude / Positive Feedback
+3156,Anger,Complaint / Dissatisfaction
+3157,Happiness,Gratitude / Positive Feedback
+3158,Anger,Complaint / Dissatisfaction
+3159,Neutral,Neutral Comment
+3160,Neutral,Neutral Comment
+3161,Happiness,Suggestion / Idea
+3162,Happiness,Gratitude / Positive Feedback
+3163,Neutral,Neutral Comment
+3164,Happiness,Gratitude / Positive Feedback
+3165,Happiness,Gratitude / Positive Feedback
+3166,Happiness,Gratitude / Positive Feedback
+3167,Anger,Complaint / Dissatisfaction
+3168,Happiness,Gratitude / Positive Feedback
+3169,Happiness,Gratitude / Positive Feedback
+3170,Anger,Complaint / Dissatisfaction
+3171,Happiness,Gratitude / Positive Feedback
+3172,Anger,Question / Request for Help
+3173,Happiness,Gratitude / Positive Feedback
+3174,Sadness,Question / Request for Help
+3175,Anger,Complaint / Dissatisfaction
+3176,Happiness,Gratitude / Positive Feedback
+3177,Happiness,Gratitude / Positive Feedback
+3178,Happiness,Gratitude / Positive Feedback
+3179,Anger,Complaint / Dissatisfaction
+3180,Anger,Complaint / Dissatisfaction
+3181,Anger,Complaint / Dissatisfaction
+3182,Happiness,Gratitude / Positive Feedback
+3183,Happiness,Gratitude / Positive Feedback
+3184,Happiness,Gratitude / Positive Feedback
+3185,Happiness,Gratitude / Positive Feedback
+3186,Happiness,Gratitude / Positive Feedback
+3187,Neutral,Suggestion / Idea
+3188,Happiness,Gratitude / Positive Feedback
+3189,Happiness,Gratitude / Positive Feedback
+3190,Happiness,Gratitude / Positive Feedback
+3191,Happiness,Gratitude / Positive Feedback
+3192,Happiness,Gratitude / Positive Feedback
+3193,Happiness,Gratitude / Positive Feedback
+3194,Happiness,Gratitude / Positive Feedback
+3195,Anger,Complaint / Dissatisfaction
+3196,Happiness,Gratitude / Positive Feedback
+3197,Anger,Complaint / Dissatisfaction
+3198,Neutral,Question / Request for Help
+3199,Happiness,Gratitude / Positive Feedback
+3200,Happiness,Gratitude / Positive Feedback
+3201,Happiness,Gratitude / Positive Feedback
+3202,Happiness,Gratitude / Positive Feedback
+3203,Happiness,Suggestion / Idea
+3204,Anger,Complaint / Dissatisfaction
+3205,Happiness,Gratitude / Positive Feedback
+3206,Happiness,Gratitude / Positive Feedback
+3207,Happiness,Gratitude / Positive Feedback
+3208,Happiness,Gratitude / Positive Feedback
+3209,Anger,Complaint / Dissatisfaction
+3210,Anger,Complaint / Dissatisfaction
+3211,Anger,Complaint / Dissatisfaction
+3212,Happiness,Gratitude / Positive Feedback
+3213,Happiness,Gratitude / Positive Feedback
+3214,Anger,Complaint / Dissatisfaction
+3215,Happiness,Gratitude / Positive Feedback
+3216,Happiness,Gratitude / Positive Feedback
+3217,Neutral,Question / Request for Help
+3218,Happiness,Gratitude / Positive Feedback
+3219,Neutral,Neutral Comment
+3220,Happiness,Gratitude / Positive Feedback
+3221,Happiness,Gratitude / Positive Feedback
+3222,Anger,Complaint / Dissatisfaction
+3223,Happiness,Gratitude / Positive Feedback
+3224,Happiness,Gratitude / Positive Feedback
+3225,Happiness,Gratitude / Positive Feedback
+3226,Happiness,Gratitude / Positive Feedback
+3227,Happiness,Gratitude / Positive Feedback
+3228,Happiness,Gratitude / Positive Feedback
+3229,Happiness,Gratitude / Positive Feedback
+3230,Neutral,Question / Request for Help
+3231,Happiness,Gratitude / Positive Feedback
+3232,Happiness,Gratitude / Positive Feedback
+3233,Happiness,Gratitude / Positive Feedback
+3234,Happiness,Gratitude / Positive Feedback
+3235,Happiness,Gratitude / Positive Feedback
+3236,Happiness,Gratitude / Positive Feedback
+3237,Happiness,Gratitude / Positive Feedback
+3238,Happiness,Gratitude / Positive Feedback
+3239,Happiness,Gratitude / Positive Feedback
+3240,Happiness,Gratitude / Positive Feedback
+3241,Happiness,Gratitude / Positive Feedback
+3242,Happiness,Gratitude / Positive Feedback
+3243,Happiness,Gratitude / Positive Feedback
+3244,Happiness,Gratitude / Positive Feedback
+3245,Neutral,Neutral Comment
+3246,Happiness,Gratitude / Positive Feedback
+3247,Happiness,Gratitude / Positive Feedback
+3248,Happiness,Gratitude / Positive Feedback
+3249,Anger,Complaint / Dissatisfaction
+3250,Neutral,Neutral Comment
+3251,Happiness,Gratitude / Positive Feedback
+3252,Happiness,Gratitude / Positive Feedback
+3253,Happiness,Gratitude / Positive Feedback
+3254,Happiness,Gratitude / Positive Feedback
+3255,Happiness,Gratitude / Positive Feedback
+3256,Anger,Complaint / Dissatisfaction
+3257,Happiness,Gratitude / Positive Feedback
+3258,Happiness,Gratitude / Positive Feedback
+3259,Anger,Complaint / Dissatisfaction
+3260,Happiness,Gratitude / Positive Feedback
+3261,Neutral,Question / Request for Help
+3262,Happiness,Gratitude / Positive Feedback
+3263,Happiness,Gratitude / Positive Feedback
+3264,Happiness,Gratitude / Positive Feedback
+3265,Neutral,Complaint / Dissatisfaction
+3266,Happiness,Gratitude / Positive Feedback
+3267,Happiness,Gratitude / Positive Feedback
+3268,Happiness,Gratitude / Positive Feedback
+3269,Happiness,Gratitude / Positive Feedback
+3270,Happiness,Gratitude / Positive Feedback
+3271,Happiness,Gratitude / Positive Feedback
+3272,Happiness,Gratitude / Positive Feedback
+3273,Happiness,Gratitude / Positive Feedback
+3274,Happiness,Gratitude / Positive Feedback
+3275,Anger,Complaint / Dissatisfaction
+3276,Happiness,Gratitude / Positive Feedback
+3277,Happiness,Gratitude / Positive Feedback
+3278,Neutral,Neutral Comment
+3279,Happiness,Gratitude / Positive Feedback
+3280,Happiness,Gratitude / Positive Feedback
+3281,Neutral,Question / Request for Help
+3282,Anger,Complaint / Dissatisfaction
+3283,Anger,Complaint / Dissatisfaction
+3284,Anger,Complaint / Dissatisfaction
+3285,Neutral,Neutral Comment
+3286,Disgust,Complaint / Dissatisfaction
+3287,Happiness,Gratitude / Positive Feedback
+3288,Happiness,Gratitude / Positive Feedback
+3289,Happiness,Gratitude / Positive Feedback
+3290,Happiness,Gratitude / Positive Feedback
+3291,Anger,Complaint / Dissatisfaction
+3292,Happiness,Gratitude / Positive Feedback
+3293,Happiness,Gratitude / Positive Feedback
+3294,Neutral,Neutral Comment
+3295,Neutral,Question / Request for Help
+3296,Happiness,Gratitude / Positive Feedback
+3297,Anger,Complaint / Dissatisfaction
+3298,Disgust,Complaint / Dissatisfaction
+3299,Happiness,Gratitude / Positive Feedback
+3300,Happiness,Gratitude / Positive Feedback
+3301,Happiness,Gratitude / Positive Feedback
+3302,Happiness,Gratitude / Positive Feedback
+3303,Neutral,Neutral Comment
+3304,Happiness,Gratitude / Positive Feedback
+3305,Happiness,Question / Request for Help
+3306,Neutral,Neutral Comment
+3307,Happiness,Gratitude / Positive Feedback
+3308,Anger,Complaint / Dissatisfaction
+3309,Happiness,Gratitude / Positive Feedback
+3310,Anger,Complaint / Dissatisfaction
+3311,Neutral,Neutral Comment
+3312,Happiness,Gratitude / Positive Feedback
+3313,Neutral,Neutral Comment
+3314,Neutral,Neutral Comment
+3315,Happiness,Gratitude / Positive Feedback
+3316,Anger,Complaint / Dissatisfaction
+3317,Happiness,Gratitude / Positive Feedback
+3318,Anger,Complaint / Dissatisfaction
+3319,Happiness,Gratitude / Positive Feedback
+3320,Happiness,Gratitude / Positive Feedback
+3321,Happiness,Gratitude / Positive Feedback
+3322,Happiness,Gratitude / Positive Feedback
+3323,Happiness,Gratitude / Positive Feedback
+3324,Happiness,Gratitude / Positive Feedback
+3325,Happiness,Gratitude / Positive Feedback
+3326,Anger,Complaint / Dissatisfaction
+3327,Happiness,Gratitude / Positive Feedback
+3328,Happiness,Gratitude / Positive Feedback
+3329,Happiness,Gratitude / Positive Feedback
+3330,Happiness,Gratitude / Positive Feedback
+3331,Happiness,Gratitude / Positive Feedback
+3332,Anger,Complaint / Dissatisfaction
+3333,Happiness,Gratitude / Positive Feedback
+3334,Happiness,Gratitude / Positive Feedback
+3335,Happiness,Gratitude / Positive Feedback
+3336,Happiness,Gratitude / Positive Feedback
+3337,Happiness,Gratitude / Positive Feedback
+3338,Anger,Complaint / Dissatisfaction
+3339,Happiness,Gratitude / Positive Feedback
+3340,Happiness,Gratitude / Positive Feedback
+3341,Happiness,Gratitude / Positive Feedback
+3342,Happiness,Gratitude / Positive Feedback
+3343,Happiness,Gratitude / Positive Feedback
+3344,Happiness,Gratitude / Positive Feedback
+3345,Happiness,Gratitude / Positive Feedback
+3346,Happiness,Gratitude / Positive Feedback
+3347,Happiness,Gratitude / Positive Feedback
+3348,Happiness,Gratitude / Positive Feedback
+3349,Happiness,Gratitude / Positive Feedback
+3350,Happiness,Gratitude / Positive Feedback
+3351,Happiness,Gratitude / Positive Feedback
+3352,Anger,Complaint / Dissatisfaction
+3353,Happiness,Gratitude / Positive Feedback
+3354,Happiness,Gratitude / Positive Feedback
+3355,Happiness,Gratitude / Positive Feedback
+3356,Happiness,Gratitude / Positive Feedback
+3357,Happiness,Gratitude / Positive Feedback
+3358,Anger,Complaint / Dissatisfaction
+3359,Anger,Complaint / Dissatisfaction
+3360,Happiness,Gratitude / Positive Feedback
+3361,Happiness,Gratitude / Positive Feedback
+3362,Happiness,Gratitude / Positive Feedback
+3363,Happiness,Gratitude / Positive Feedback
+3364,Anger,Complaint / Dissatisfaction
+3365,Happiness,Gratitude / Positive Feedback
+3366,Anger,Complaint / Dissatisfaction
+3367,Happiness,Gratitude / Positive Feedback
+3368,Happiness,Gratitude / Positive Feedback
+3369,Happiness,Gratitude / Positive Feedback
+3370,Happiness,Gratitude / Positive Feedback
+3371,Happiness,Gratitude / Positive Feedback
+3372,Anger,Complaint / Dissatisfaction
+3373,Happiness,Gratitude / Positive Feedback
+3374,Happiness,Gratitude / Positive Feedback
+3375,Happiness,Gratitude / Positive Feedback
+3376,Happiness,Gratitude / Positive Feedback
+3377,Anger,Complaint / Dissatisfaction
+3378,Happiness,Gratitude / Positive Feedback
+3379,Happiness,Gratitude / Positive Feedback
+3380,Happiness,Gratitude / Positive Feedback
+3381,Anger,Complaint / Dissatisfaction
+3382,Happiness,Gratitude / Positive Feedback
+3383,Happiness,Gratitude / Positive Feedback
+3384,Happiness,Gratitude / Positive Feedback
+3385,Happiness,Gratitude / Positive Feedback
+3386,Happiness,Gratitude / Positive Feedback
+3387,Neutral,Question / Request for Help
+3388,Happiness,Gratitude / Positive Feedback
+3389,Happiness,Gratitude / Positive Feedback
+3390,Happiness,Gratitude / Positive Feedback
+3391,Anger,Complaint / Dissatisfaction
+3392,Neutral,Neutral Comment
+3393,Happiness,Gratitude / Positive Feedback
+3394,Anger,Complaint / Dissatisfaction
+3395,Happiness,Gratitude / Positive Feedback
+3396,Happiness,Gratitude / Positive Feedback
+3397,Happiness,Gratitude / Positive Feedback
+3398,Happiness,Gratitude / Positive Feedback
+3399,Neutral,Neutral Comment
+3400,Anger,Complaint / Dissatisfaction
+3401,Happiness,Gratitude / Positive Feedback
+3402,Happiness,Gratitude / Positive Feedback
+3403,Neutral,Neutral Comment
+3404,Happiness,Gratitude / Positive Feedback
+3405,Happiness,Gratitude / Positive Feedback
+3406,Happiness,Gratitude / Positive Feedback
+3407,Happiness,Gratitude / Positive Feedback
+3408,Happiness,Gratitude / Positive Feedback
+3409,Happiness,Gratitude / Positive Feedback
+3410,Happiness,Gratitude / Positive Feedback
+3411,Happiness,Gratitude / Positive Feedback
+3412,Happiness,Gratitude / Positive Feedback
+3413,Happiness,Gratitude / Positive Feedback
+3414,Happiness,Gratitude / Positive Feedback
+3415,Neutral,Neutral Comment
+3416,Happiness,Gratitude / Positive Feedback
+3417,Anger,Complaint / Dissatisfaction
+3418,Anger,Complaint / Dissatisfaction
+3419,Happiness,Gratitude / Positive Feedback
+3420,Happiness,Gratitude / Positive Feedback
+3421,Happiness,Gratitude / Positive Feedback
+3422,Neutral,Complaint / Dissatisfaction
+3423,Happiness,Gratitude / Positive Feedback
+3424,Neutral,Neutral Comment
+3425,Happiness,Gratitude / Positive Feedback
+3426,Happiness,Gratitude / Positive Feedback
+3427,Happiness,Gratitude / Positive Feedback
+3428,Disgust,Complaint / Dissatisfaction
+3429,Happiness,Gratitude / Positive Feedback
+3430,Anger,Complaint / Dissatisfaction
+3431,Happiness,Gratitude / Positive Feedback
+3432,Anger,Complaint / Dissatisfaction
+3433,Happiness,Gratitude / Positive Feedback
+3434,Anger,Complaint / Dissatisfaction
+3435,Anger,Complaint / Dissatisfaction
+3436,Happiness,Gratitude / Positive Feedback
+3437,Anger,Complaint / Dissatisfaction
+3438,Happiness,Gratitude / Positive Feedback
+3439,Happiness,Gratitude / Positive Feedback
+3440,Happiness,Gratitude / Positive Feedback
+3441,Anger,Complaint / Dissatisfaction
+3442,Anger,Complaint / Dissatisfaction
+3443,Happiness,Gratitude / Positive Feedback
+3444,Neutral,Neutral Comment
+3445,Anger,Complaint / Dissatisfaction
+3446,Anger,Complaint / Dissatisfaction
+3447,Happiness,Gratitude / Positive Feedback
+3448,Happiness,Gratitude / Positive Feedback
+3449,Happiness,Gratitude / Positive Feedback
+3450,Happiness,Gratitude / Positive Feedback
+3451,Happiness,Gratitude / Positive Feedback
+3452,Anger,Complaint / Dissatisfaction
+3453,Happiness,Gratitude / Positive Feedback
+3454,Happiness,Gratitude / Positive Feedback
+3455,Neutral,Neutral Comment
+3456,Happiness,Gratitude / Positive Feedback
+3457,Happiness,Gratitude / Positive Feedback
+3458,Neutral,Neutral Comment
+3459,Anger,Complaint / Dissatisfaction
+3460,Happiness,Gratitude / Positive Feedback
+3461,Happiness,Gratitude / Positive Feedback
+3462,Happiness,Gratitude / Positive Feedback
+3463,Happiness,Gratitude / Positive Feedback
+3464,Happiness,Gratitude / Positive Feedback
+3465,Happiness,Gratitude / Positive Feedback
+3466,Happiness,Gratitude / Positive Feedback
+3467,Happiness,Gratitude / Positive Feedback
+3468,Happiness,Gratitude / Positive Feedback
+3469,Anger,Complaint / Dissatisfaction
+3470,Happiness,Gratitude / Positive Feedback
+3471,Anger,Complaint / Dissatisfaction
+3472,Happiness,Gratitude / Positive Feedback
+3473,Neutral,Question / Request for Help
